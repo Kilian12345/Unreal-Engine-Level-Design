@@ -1,2 +1,2 @@
-C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\Definitions.LevelDesign_Solo.h
-C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Source\LevelDesign_Solo\LevelDesign_Solo.h
+C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\Definitions.LevelDesign_Solo.h
+C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Source\LevelDesign_Solo\LevelDesign_Solo.h

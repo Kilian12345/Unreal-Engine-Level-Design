@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Inc\LevelDesign_Solo
-/I C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Source
-/I C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Source\LevelDesign_Solo
+/I C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Inc\LevelDesign_Solo
+/I C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Source
+/I C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Source\LevelDesign_Solo
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -529,12 +529,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\LevelDesign_SoloEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\LevelDesign_SoloEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\LevelDesign_SoloEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Inc\LevelDesign_Solo\LevelDesign_Solo.init.gen.cpp"
-/FI"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\Definitions.LevelDesign_Solo.h"
-/Fo"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\LevelDesign_Solo.init.gen.cpp.obj"
+/FI"C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\LevelDesign_SoloEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\LevelDesign_SoloEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\LevelDesign_SoloEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Inc\LevelDesign_Solo\LevelDesign_Solo.init.gen.cpp"
+/FI"C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\Definitions.LevelDesign_Solo.h"
+/Fo"C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\LevelDesign_Solo.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

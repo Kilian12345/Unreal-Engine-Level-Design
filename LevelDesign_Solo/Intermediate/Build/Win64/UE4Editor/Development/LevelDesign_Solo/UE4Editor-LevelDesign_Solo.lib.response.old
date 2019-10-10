@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LevelDesign_Solo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\LevelDesign_SoloEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\LevelDesign_Solo.cpp.obj"
+"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\LevelDesign_SoloGameModeBase.cpp.obj"
+"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\LevelDesign_Solo.init.gen.cpp.obj"
+"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\LevelDesign_SoloGameModeBase.gen.cpp.obj"
+"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\Default.rc2.res"
+/OUT:"C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\LevelDesign_Solo\Intermediate\Build\Win64\UE4Editor\Development\LevelDesign_Solo\UE4Editor-LevelDesign_Solo.lib"
+/INCLUDE:IMPLEMENT_MODULE_LevelDesign_Solo
