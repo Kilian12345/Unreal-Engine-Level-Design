@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LevelDesign_Solo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D5110A01-4A2A-48F2-B726-CFD4D0E336F8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LevelDesign_Solo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LevelDesign_SoloEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{196098D8-A781-47AE-ABF3-1D7686ABBCC7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{79B8173A-9F95-4B15-84B0-C88201391571}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{BC16BAEC-98EF-48F5-A8D0-65F182DA1C10}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{943A7A2A-5AA0-4477-8795-71B3DEBA4D34}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{0456AFC8-506A-4812-A409-973671DECF69}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{71364A74-20AC-4AF7-8C67-BD0B5254253F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{4DEF48FA-52E0-4826-9E3B-9BFB4D044D64}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{AE66F5F7-95C3-48D5-A730-7B5753D2635B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{6BA053CA-B292-4E09-B9DE-72BCC4486295}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\LevelDesign_Solo">
+      <UniqueIdentifier>{2FBD7B01-D4B9-428F-B2D4-B1882C295A85}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LevelDesign_Solo\LevelDesign_Solo.Build.cs">
+      <Filter>Source\LevelDesign_Solo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LevelDesign_Solo\LevelDesign_Solo.cpp">
+      <Filter>Source\LevelDesign_Solo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LevelDesign_Solo\LevelDesign_Solo.h">
+      <Filter>Source\LevelDesign_Solo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LevelDesign_Solo\LevelDesign_SoloGameModeBase.cpp">
+      <Filter>Source\LevelDesign_Solo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LevelDesign_Solo\LevelDesign_SoloGameModeBase.h">
+      <Filter>Source\LevelDesign_Solo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
