@@ -1,3 +1,0 @@
-C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Source\LevelDesign_Solo\LevelDesign_Solo.Build.cs
-C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Source\LevelDesign_Solo.Target.cs
-C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\LevelDesign_Solo\Source\LevelDesign_SoloEditor.Target.cs
