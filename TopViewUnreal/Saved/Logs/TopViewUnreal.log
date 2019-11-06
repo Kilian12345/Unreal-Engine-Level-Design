@@ -561,3 +561,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.06-17.20.03:167][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.06-17.20.03:264][745]LogRenderer: Reallocating scene render targets to support 988x504 Format 10 NumSamples 1 (Frame:724).
 [2019.11.06-17.20.31:008][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.06-17.22.50:801][611]LogSlate: Window 'Message Log' being destroyed
+[2019.11.06-17.22.50:806][611]LogSlate: Window 'Message Log' being destroyed
