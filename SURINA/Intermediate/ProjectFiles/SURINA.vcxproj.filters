@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SURINA.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D7609C5D-A94A-4C5A-A7CA-FF344A306B8E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SURINA.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SURINAEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F0CB6247-8CBA-4C0A-B84E-7A41AD31BFDB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SURINA">
+      <UniqueIdentifier>{FEA1506B-8416-40A3-98F2-4315EC3008BA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SURINA\SURINA.Build.cs">
+      <Filter>Source\SURINA</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SURINA\SURINA.cpp">
+      <Filter>Source\SURINA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SURINA\SURINA.h">
+      <Filter>Source\SURINA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SURINA\SURINACharacter.cpp">
+      <Filter>Source\SURINA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SURINA\SURINACharacter.h">
+      <Filter>Source\SURINA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SURINA\SURINAGameMode.cpp">
+      <Filter>Source\SURINA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SURINA\SURINAGameMode.h">
+      <Filter>Source\SURINA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SURINA\SURINAPlayerController.cpp">
+      <Filter>Source\SURINA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SURINA\SURINAPlayerController.h">
+      <Filter>Source\SURINA</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
