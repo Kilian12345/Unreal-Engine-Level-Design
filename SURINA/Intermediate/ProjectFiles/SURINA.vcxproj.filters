@@ -60,4 +60,34 @@
       <Filter>Source\SURINA</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\SURINA\Public">
+      <UniqueIdentifier>{73872adf-4bba-495a-8365-2175ed6a7937}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\SURINA\Private">
+      <UniqueIdentifier>{b575a1a3-6d42-4c97-b176-c970a0f73413}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\SURINA\Public\PlayerCharacter.h">
+      <Filter>Source\SURINA\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SURINA\Public\BasicGuard.h">
+      <Filter>Source\SURINA\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SURINA\Public\TeamAIController.h">
+      <Filter>Source\SURINA\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\SURINA\Private\PlayerCharacter.cpp">
+      <Filter>Source\SURINA\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SURINA\Private\BasicGuard.cpp">
+      <Filter>Source\SURINA\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SURINA\Private\TeamAIController.cpp">
+      <Filter>Source\SURINA\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

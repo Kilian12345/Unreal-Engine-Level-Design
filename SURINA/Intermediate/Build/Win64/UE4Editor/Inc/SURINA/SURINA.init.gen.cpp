@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeSURINA_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xFD6274CF,
-				0x72A58A7B,
+				0x865272C9,
+				0xCE44E74C,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
