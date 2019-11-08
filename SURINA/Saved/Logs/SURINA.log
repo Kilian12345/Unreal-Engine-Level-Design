@@ -7182,3 +7182,1528 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.08-20.17.30:789][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
 [2019.11.08-20.17.30:951][560]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap721D0DE8498D6BB338AC71BBC685B03E.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
 [2019.11.08-20.17.31:059][560]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap_BuiltData80388E7543DF689A1609E9BBF3C966C7.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.11.08-20.18.37:720][158]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.18.37:781][159]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.18.37:781][159]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.18.37:781][159]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.18.37:781][159]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.18.38:114][181]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.18.38:240][188]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.18.38:364][195]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.18.38:504][204]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.18.38:504][204]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.18.38:504][204]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.18.38:504][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.18.45:086][854]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.18.45:104][855]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.18.45:104][855]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.18.45:104][855]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.18.45:104][855]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.18.45:245][865]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.18.45:357][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.18.45:469][879]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.18.45:624][890]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.18.45:624][890]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.18.45:624][890]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.18.45:624][890]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.18.51:021][394]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.18.51:038][395]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.18.51:038][395]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.18.51:038][395]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.18.51:038][395]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.18.51:184][405]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.18.51:306][412]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.18.51:474][422]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.18.51:608][432]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.18.51:608][432]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.18.51:608][432]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.18.51:608][432]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.18.56:913][986]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.18.56:989][987]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.18.56:989][987]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.18.56:989][987]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.18.56:989][987]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.18.57:067][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.18.57:213][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.18.57:315][  7]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.18.57:459][ 17]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.18.57:459][ 17]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.18.57:459][ 17]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.18.57:459][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.04:103][663]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.04:120][664]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.04:120][664]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.04:120][664]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.04:120][664]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.04:282][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.04:434][683]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.04:527][689]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.04:665][698]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.04:665][698]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.04:665][698]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.04:665][698]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.06:502][889]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.06:579][890]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.06:579][890]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.06:579][890]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.06:579][890]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.06:672][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.06:806][904]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.06:915][911]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.07:050][920]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.07:050][920]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.07:050][920]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.07:050][920]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.09:043][120]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.09:060][121]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.09:060][121]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.09:060][121]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.09:060][121]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.09:214][131]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.09:352][139]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.09:429][143]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.09:620][156]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.09:620][156]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.09:620][156]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.09:620][156]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.10:681][259]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.10:731][260]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.10:731][260]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.10:731][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.10:731][260]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.10:844][267]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.10:942][273]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.11:071][279]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.15:589][771]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.15:655][772]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.15:655][772]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.15:655][772]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.15:655][772]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.15:757][778]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.15:885][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.16:044][794]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.16:227][807]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.16:227][807]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.16:227][807]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.16:227][807]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.27:501][871]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.27:522][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.27:522][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.27:522][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.27:522][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.27:680][881]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.27:843][890]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.27:931][895]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.28:101][906]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.28:101][906]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.28:101][906]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.28:101][906]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.31:187][204]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.31:205][205]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.31:205][205]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.31:205][205]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.31:205][205]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.31:351][215]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.31:471][221]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.31:589][228]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.31:729][237]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.31:729][237]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.31:729][237]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.31:729][237]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.34:963][528]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.34:972][528]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.34:990][529]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.34:990][529]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.34:990][529]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.34:990][529]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.35:149][539]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.35:261][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.35:424][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.19.35:520][561]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.35:520][561]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.35:520][561]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.35:520][561]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.38:235][816]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.38:256][817]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.38:256][817]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.38:256][817]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.38:257][817]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.38:406][826]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.38:530][831]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.38:578][832]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.38:590][832]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.38:651][835]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.11.08-20.19.38:699][838]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2019.11.08-20.19.38:714][839]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.11.08-20.19.38:791][844]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2019.11.08-20.19.38:823][846]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.11.08-20.19.38:959][854]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.11.08-20.19.39:109][862]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.39:225][870]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.39:226][870]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.39:226][870]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.39:226][870]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.39:866][926]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.39:985][926]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.40:008][927]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.40:008][927]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.40:008][927]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.40:008][927]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.40:180][937]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.40:290][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.40:408][950]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.40:538][959]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.40:538][959]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.40:538][959]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.40:538][959]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.41:160][ 14]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.41:184][ 14]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.41:204][ 15]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.41:204][ 15]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.41:204][ 15]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.41:204][ 15]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.41:335][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.41:467][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.41:580][ 37]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.41:729][ 47]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.41:729][ 47]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.41:729][ 47]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.41:729][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.42:424][111]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.42:433][111]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.42:453][112]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.42:453][112]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.42:453][112]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.42:453][112]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.42:597][122]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.42:736][130]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.42:833][136]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.43:023][150]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.43:023][150]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.43:023][150]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.43:023][150]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.43:571][197]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.43:580][197]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.43:600][198]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.43:600][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.43:600][198]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.43:600][198]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.43:728][207]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.43:891][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.44:009][223]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.19.44:145][233]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.44:145][233]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.44:145][233]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.44:145][233]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.48:675][663]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.48:683][663]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.48:701][664]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.48:701][664]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.48:701][664]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.48:701][664]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.48:831][673]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.48:993][682]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.49:110][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.19.49:256][698]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.49:256][698]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.49:256][698]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.49:256][698]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.50:000][768]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.50:018][769]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.50:018][769]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.50:018][769]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.50:018][769]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.50:151][778]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.50:287][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.50:446][794]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.50:550][802]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.50:550][802]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.50:550][802]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.50:550][802]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.19.53:413][ 89]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.53:413][ 89]LogMaterial: Warning: /Engine/Transient.CelShading (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.08-20.19.53:413][ 89]LogMaterial: Display: 	(Node Saturate) Missing Saturate input
+[2019.11.08-20.19.53:415][ 89]MaterialEditorStats: Error: [SM5] (Node Saturate) Missing Saturate input
+[2019.11.08-20.19.56:375][376]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.56:376][376]LogMaterial: Warning: /Engine/Transient.CelShading (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.08-20.19.56:376][376]LogMaterial: Display: 	(Node Saturate) Missing Saturate input
+[2019.11.08-20.19.58:619][589]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.19.58:671][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.19.58:672][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.19.58:672][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.19.58:672][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.19.58:794][597]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.19.58:927][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.19.58:998][609]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.19.59:176][622]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.19.59:176][622]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.19.59:176][622]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.19.59:176][622]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.01:394][845]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.01:412][846]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.01:412][846]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.01:412][846]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.01:412][846]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.01:548][854]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.01:685][862]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.01:790][868]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.01:936][878]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.01:936][878]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.01:936][878]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.01:936][878]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.06:915][336]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.06:923][336]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.06:943][337]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.06:943][337]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.06:943][337]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.06:943][337]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.07:152][352]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.07:274][359]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.07:361][364]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.07:528][376]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.07:528][376]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.07:528][376]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.07:528][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.08:107][430]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.08:115][430]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.08:131][431]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.08:131][431]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.08:132][431]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.08:132][431]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.08:278][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.08:428][450]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.08:537][457]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.08:692][468]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.08:692][468]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.08:692][468]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.08:692][468]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.09:853][578]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.09:861][578]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.09:879][579]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.09:879][579]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.09:879][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.09:879][579]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.10:034][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.10:147][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.10:273][605]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.10:394][613]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.10:394][613]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.10:394][613]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.10:394][613]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.10:940][665]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.10:949][665]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.10:968][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.10:968][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.10:968][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.10:968][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.11:132][677]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.11:217][682]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.11:364][691]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.11:489][700]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.11:489][700]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.11:489][700]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.11:489][700]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.12:000][747]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.12:008][747]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.12:027][748]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.12:027][748]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.12:027][748]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.12:028][748]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.12:154][757]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.12:298][766]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.12:390][772]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.12:569][786]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.12:569][786]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.12:569][786]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.12:569][786]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.16:108][126]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.16:161][127]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.16:161][127]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.16:161][127]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.16:161][127]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.16:274][134]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.16:415][142]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.16:445][144]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.20.16:618][156]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.20.16:618][156]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.16:618][156]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.20.26:463][140]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.26:516][141]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.26:516][141]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.26:516][141]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.26:516][141]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.26:625][148]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.26:786][157]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.11.08-20.20.26:826][159]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.11.08-20.20.26:969][168]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.20.26:969][168]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.26:969][168]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.20.30:853][557]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.30:859][557]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.30:859][557]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.30:859][557]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.30:859][557]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.30:994][566]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.31:211][579]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.11.08-20.20.31:228][580]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.11.08-20.20.31:478][604]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.20.31:478][604]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.31:478][604]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.20.33:433][799]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.33:439][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.33:439][799]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.33:439][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.33:455][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.33:578][808]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.33:702][816]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.33:728][818]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.20.33:860][828]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.20.33:860][828]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.33:860][828]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.20.34:796][919]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.34:843][920]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.34:844][920]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.34:844][920]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.34:844][920]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.34:945][927]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.35:086][936]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.35:100][937]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.20.35:242][947]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.35:242][947]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.35:242][947]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.20.37:347][154]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.37:366][155]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.37:366][155]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.37:366][155]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.37:366][155]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.37:542][166]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.37:652][172]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.37:775][180]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.37:911][189]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.37:911][189]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.37:912][189]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.37:912][189]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.41:158][479]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.41:166][479]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.41:185][480]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.41:185][480]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.41:185][480]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.41:185][480]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.41:318][489]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.41:433][495]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.41:566][503]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.41:689][511]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.41:689][511]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.41:689][511]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.41:689][511]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.42:330][567]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.42:442][567]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.42:480][568]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.42:481][568]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.42:481][568]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.42:481][568]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.42:629][577]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.42:734][582]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.42:861][589]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.43:002][598]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.43:002][598]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.43:002][598]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.43:002][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.43:563][648]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.43:568][648]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.43:568][648]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.43:568][648]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.43:568][648]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.43:594][648]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.43:716][655]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.43:884][664]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.43:900][665]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.11.08-20.20.43:951][668]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.44:036][673]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.11.08-20.20.44:139][679]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.44:294][688]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.44:412][696]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.44:413][696]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.44:413][696]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.44:413][696]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.45:162][762]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.45:170][762]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.45:189][763]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.45:189][763]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.45:189][763]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.45:189][763]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.45:392][776]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.45:445][779]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.45:571][786]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.45:729][796]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.45:730][796]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.45:730][796]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.45:730][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.46:570][869]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.46:578][869]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.46:597][870]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.46:597][870]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.46:597][870]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.46:597][870]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.46:728][879]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.46:869][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.46:984][894]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.47:103][902]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.47:103][902]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.47:103][902]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.47:103][902]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.47:944][972]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.47:954][972]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.47:974][973]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.47:975][973]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.47:975][973]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.47:975][973]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.48:124][983]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.20.48:274][991]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.20.48:398][998]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.48:579][ 10]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.48:579][ 10]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.48:579][ 10]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.48:579][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.20.51:082][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-20.20.51:149][242]LogMaterialEditor: Applying material CelShading
+[2019.11.08-20.20.51:533][242]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.51:550][242]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.20.51:550][242]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.20.51:550][242]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.51:550][242]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.20.51:567][242]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.51:609][242]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.20.51:673][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.11.08-20.20.51:673][242]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.11.08-20.20.51:698][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.11.08-20.20.51:700][242]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.11.08-20.20.51:810][248]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.11.08-20.20.51:951][256]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.11.08-20.20.52:000][259]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.11.08-20.20.52:015][260]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.20.52:043][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.11.08-20.20.52:071][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.11.08-20.20.52:202][271]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.20.52:687][302]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.20.52:687][302]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.20.52:687][302]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.20.52:687][302]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.21.12:357][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-20.21.12:427][851]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-20.21.12:438][851]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-20.21.12:439][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.08-20.21.12:439][851]PIE: New page: PIE session: TopDownExampleMap (8 nov. 2019 22:21:12)
+[2019.11.08-20.21.12:441][851]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-20.21.12:453][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012404s)
+[2019.11.08-20.21.12:454][851]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.11.08-20.21.12:455][851]LogPlayLevel: PIE: World Init took: (0.001634s)
+[2019.11.08-20.21.12:455][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014241s)
+[2019.11.08-20.21.12:480][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.11.08-20.21.12:507][851]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-20.21.12:518][851]LogInit: FAudioDevice initialized.
+[2019.11.08-20.21.12:528][851]LogLoad: Game class is 'SURINAGameMode'
+[2019.11.08-20.21.12:529][851]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.11.08-21.21.12
+[2019.11.08-20.21.12:530][851]LogWorld: Bringing up level for play took: 0.001197
+[2019.11.08-20.21.12:530][851]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.11.08-20.21.12:533][851]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0,169
+[2019.11.08-20.21.12:533][851]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-20.21.48:404][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-20.21.58:994][665]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.21.59:014][665]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.21.59:014][665]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.21.59:014][665]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.21.59:014][665]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.21.59:269][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.21.59:519][711]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.21.59:545][713]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.21.59:742][732]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.21.59:742][732]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.21.59:742][732]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.21.59:742][732]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.02:800][ 91]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.02:805][ 91]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.02:805][ 91]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.02:805][ 91]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.02:805][ 91]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.03:057][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.03:094][116]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.03:178][125]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.03:345][140]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.22.03:345][140]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.03:345][140]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.03:345][140]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.04:527][280]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.04:546][281]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.04:546][281]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.04:546][281]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.04:546][281]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.04:677][294]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.04:794][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.04:912][312]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.05:088][328]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.05:088][328]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.05:088][328]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.05:088][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.08:023][666]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.08:031][666]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.08:041][666]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.08:041][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.08:041][666]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.08:041][666]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.08:179][679]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.08:313][689]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.08:451][699]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.22.08:604][714]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.08:604][714]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.08:604][714]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.08:604][714]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.09:389][785]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.09:397][785]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.09:407][785]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.09:407][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.09:407][785]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.09:407][785]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.09:559][797]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.09:676][805]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.09:815][816]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.09:915][825]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.09:915][825]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.09:915][825]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.09:915][825]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.10:462][880]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.10:471][880]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.10:492][881]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.10:492][881]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.10:492][881]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.10:492][881]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.10:658][895]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.10:766][903]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.10:868][911]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.11:050][929]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.11:050][929]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.11:050][929]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.11:050][929]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.11:638][991]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.11:644][991]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.11:644][991]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.11:644][991]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.11:644][991]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.11:647][991]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.11:805][  3]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.11:935][ 13]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.11:986][ 17]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.11.08-20.22.12:023][ 20]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.12:113][ 28]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.11.08-20.22.12:184][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.12:387][ 50]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.12:503][ 62]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.12:503][ 62]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.12:503][ 62]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.12:503][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.12:975][111]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.12:982][111]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.13:004][112]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.13:004][112]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.13:004][112]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.13:004][112]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.13:139][125]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.13:274][135]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.13:390][144]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.22.13:514][155]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.13:514][155]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.13:514][155]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.13:514][155]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.34:538][658]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.34:560][659]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.34:560][659]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.34:560][659]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.34:560][659]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.34:838][683]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.34:984][694]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.34:997][695]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.22.35:174][710]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.35:174][710]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.35:174][710]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.22.36:232][831]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.36:253][832]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.36:253][832]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.36:253][832]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.36:253][832]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.36:406][845]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.36:521][853]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.36:626][861]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.36:785][876]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.36:785][876]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.36:786][876]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.36:786][876]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.38:850][ 93]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.38:859][ 93]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.38:869][ 93]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.38:869][ 93]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.38:869][ 93]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.38:869][ 93]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.39:030][108]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.39:190][120]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.39:253][125]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.39:428][142]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.39:428][142]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.39:428][142]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.39:428][142]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.40:452][258]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.40:477][258]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.40:488][258]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.40:488][258]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.40:488][258]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.40:488][258]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.40:639][269]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.40:783][279]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.40:869][286]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.41:020][300]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.41:020][300]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.41:020][300]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.41:020][300]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.41:556][355]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.41:565][355]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.41:576][355]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.41:576][355]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.41:576][355]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.41:576][355]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.41:725][369]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.41:845][379]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.41:936][386]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.42:090][400]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.42:090][400]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.42:090][400]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.42:090][400]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.42:504][445]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.42:512][445]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.42:519][445]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.42:519][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.42:519][445]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.42:519][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.42:667][458]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.42:793][468]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.42:916][478]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.43:070][492]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.43:071][492]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.43:071][492]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.43:071][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.51:805][371]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.51:853][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.51:853][372]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.51:853][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.51:853][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.51:937][379]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.52:115][393]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.11.08-20.22.52:127][394]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.11.08-20.22.52:247][405]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.22.52:247][405]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.52:247][405]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.22.54:283][645]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.54:291][645]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.54:291][645]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.54:291][645]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.54:291][645]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.54:437][658]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.22.54:560][667]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.22.54:685][675]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.54:802][685]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.54:802][685]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.54:802][685]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.54:802][685]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.22.57:969][ 53]LogMaterialEditor: Applying material CelShading
+[2019.11.08-20.22.58:360][ 53]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.58:380][ 53]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.22.58:380][ 53]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.22.58:380][ 53]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.58:380][ 53]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.22.58:380][ 53]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.58:391][ 53]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.22.58:452][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.11.08-20.22.58:452][ 53]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.11.08-20.22.58:477][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.08-20.22.58:580][ 60]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.11.08-20.22.58:674][ 68]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.11.08-20.22.58:823][ 80]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.11.08-20.22.58:860][ 83]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.11.08-20.22.58:870][ 84]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.22.58:959][ 92]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.11.08-20.22.59:020][ 97]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.11.08-20.22.59:148][106]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.22.59:660][156]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.22.59:660][156]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.22.59:660][156]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.22.59:660][156]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.08:064][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-20.23.11:828][403]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.11:838][403]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.11:838][403]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.11:838][403]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.11:838][403]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.11:986][413]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.12:103][423]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.12:236][434]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.12:347][445]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.12:347][445]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.12:347][445]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.12:347][445]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.13:521][583]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.13:542][584]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.13:543][584]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.13:543][584]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.13:543][584]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.13:707][598]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.13:831][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.13:914][613]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.14:517][680]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.14:534][681]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.14:534][681]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.14:534][681]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.14:534][681]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.14:671][693]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.14:841][707]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.14:925][715]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.15:067][729]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.15:067][729]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.15:067][729]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.15:067][729]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.21:105][436]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.21:112][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.21:112][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.21:112][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.21:112][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.21:270][450]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.21:396][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.21:496][466]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.21:640][479]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.21:640][479]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.21:640][479]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.21:640][479]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.23:776][720]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.23:845][720]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.23:855][720]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.23:855][720]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.23:855][720]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.23:855][720]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.23:987][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.24:258][754]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.11.08-20.23.24:268][755]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.23.24:466][775]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.24:466][775]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.24:466][775]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.24:466][775]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.25:277][860]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.25:296][860]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.25:308][860]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.25:308][860]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.25:308][860]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.25:308][860]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.25:453][873]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.25:649][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.25:735][894]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.25:904][909]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.25:904][909]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.25:904][909]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.25:904][909]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.26:689][992]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.26:697][992]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.26:717][993]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.26:718][993]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.26:718][993]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.26:718][993]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.26:846][  5]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.26:979][ 15]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.27:107][ 25]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.27:227][ 36]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.27:227][ 36]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.27:227][ 36]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.27:227][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.28:021][119]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.28:030][119]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.28:044][119]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.28:044][119]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.28:044][119]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.28:044][119]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.28:202][133]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.28:323][141]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.28:438][149]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.28:570][161]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.28:570][161]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.28:570][161]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.28:570][161]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.29:113][217]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.29:121][217]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.29:142][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.29:142][218]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.29:142][218]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.29:142][218]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.29:281][230]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.29:379][237]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.29:522][247]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.29:653][258]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.29:653][258]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.29:653][258]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.29:653][258]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.30:129][307]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.30:137][307]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.30:145][307]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.30:145][307]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.30:145][307]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.30:145][307]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.30:279][320]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.30:420][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.30:538][340]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.30:656][351]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.30:656][351]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.30:656][351]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.30:656][351]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.31:397][427]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.31:418][427]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.31:442][428]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.31:442][428]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.31:442][428]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.31:442][428]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.31:583][440]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.31:697][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.31:801][455]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.31:935][466]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.31:936][466]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.31:936][466]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.31:936][466]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.35:105][839]LogMaterialEditor: Applying material CelShading
+[2019.11.08-20.23.35:475][839]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.35:494][839]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.35:500][839]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.35:500][839]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.35:500][839]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.35:500][839]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.35:516][839]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.35:572][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.11.08-20.23.35:572][839]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.11.08-20.23.35:596][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.11.08-20.23.35:668][843]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.11.08-20.23.35:798][853]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.11.08-20.23.35:909][862]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.11.08-20.23.36:665][867]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.11.08-20.23.36:665][867]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.11.08-20.23.36:665][867]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.11.08-20.23.36:665][867]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.11.08-20.23.36:665][867]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.36:667][867]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.36:667][867]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.36:667][867]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.36:667][867]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.23.45:207][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-20.23.45:290][894]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-20.23.45:290][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-20.23.45:290][894]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-20.23.45:290][894]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-20.23.45:300][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.08-20.23.45:300][894]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-20.23.45:323][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-20.23.45:326][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.11.08-20.23.45:396][899]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.11.08-20.23.48:152][153]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.48:197][154]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.48:197][154]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.48:197][154]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.48:197][154]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.48:302][163]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.48:442][174]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.48:486][178]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.23.48:669][198]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2019.11.08-20.23.48:669][198]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.48:669][198]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.23.52:375][617]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.23.52:391][618]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.23.52:391][618]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.23.52:391][618]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.23.52:391][618]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.23.52:537][631]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.23.52:677][641]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.23.52:789][650]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.23.52:924][662]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.23.52:924][662]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.23.52:924][662]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.23.52:924][662]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.08-20.24.24:144][304]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.24:184][305]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.24:184][305]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.24:184][305]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.24:184][305]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.24:559][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.24:705][354]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.11.08-20.24.24:728][356]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.11.08-20.24.25:969][496]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.26:026][497]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.26:026][497]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.26:026][497]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.26:026][497]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.26:163][510]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.26:305][522]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.24.26:338][525]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.24.26:495][539]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.24.26:495][539]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.24.26:495][539]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.24.28:838][813]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.28:856][814]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.28:856][814]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.28:856][814]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.28:856][814]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.28:982][825]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.29:134][836]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.24.29:146][837]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.24.29:327][852]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.24.29:327][852]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.24.29:327][852]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.24.33:553][263]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSceneTexture'"MaterialGraphNode_2.MaterialExpressionSceneTexture_3"',Mask=1,MaskR=1,MaskG=1,MaskB=1,MaskA=1)'
+[2019.11.08-20.24.33:564][263]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.33:607][264]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.33:607][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.33:607][264]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.33:607][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.33:698][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.33:845][279]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.11.08-20.24.33:863][280]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.11.08-20.24.34:047][293]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.24.34:047][293]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.24.34:047][293]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.24.37:468][645]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.37:486][646]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.37:486][646]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.37:486][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.37:486][646]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.37:643][657]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.37:738][663]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.24.37:811][668]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.24.37:981][681]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.24.37:981][681]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.24.37:981][681]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.24.39:911][899]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.39:965][900]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.39:965][900]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.39:965][900]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.39:965][900]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.40:053][906]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.40:187][915]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.24.40:218][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.24.40:363][928]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.24.40:363][928]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.24.40:363][928]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.24.42:099][123]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.42:118][124]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.42:118][124]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.42:118][124]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.42:118][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.42:254][134]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.42:421][144]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.24.42:489][148]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.24.43:269][232]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.43:284][233]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.43:284][233]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.43:284][233]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.43:284][233]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.43:437][244]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.43:577][253]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.24.43:593][254]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.11.08-20.24.43:745][264]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.24.43:745][264]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.24.43:745][264]MaterialEditorStats: Texture samplers: 0/16
+[2019.11.08-20.24.46:173][532]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.46:191][533]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.46:191][533]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.46:191][533]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.46:191][533]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.46:350][544]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.46:491][553]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.24.46:609][561]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.24.46:757][573]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.24.46:757][573]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.24.46:757][573]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.24.46:757][573]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2019.11.08-20.24.50:947][  6]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.50:955][  6]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.50:973][  7]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.50:973][  7]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.50:973][  7]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.50:973][  7]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.51:120][ 19]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.51:276][ 29]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.24.51:404][ 37]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.24.51:542][ 48]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.24.51:542][ 48]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.24.51:542][ 48]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.24.51:542][ 48]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2019.11.08-20.24.52:284][126]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.52:293][126]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.52:314][127]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.52:315][127]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.52:315][127]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.52:315][127]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.52:455][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.52:600][148]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.24.52:685][154]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.24.52:849][168]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.24.52:849][168]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.24.52:849][168]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.24.52:849][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2019.11.08-20.24.53:570][246]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.53:578][246]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.53:596][247]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.53:596][247]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.53:596][247]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.53:596][247]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.53:714][257]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.24.53:841][266]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.24.54:014][278]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.24.54:146][288]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.24.54:146][288]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.24.54:146][288]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.24.54:146][288]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2019.11.08-20.24.55:810][448]LogMaterialEditor: Applying material CelShading
+[2019.11.08-20.24.56:208][448]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.56:226][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.24.56:227][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.24.56:227][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.56:227][448]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.24.56:246][448]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.56:260][448]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.24.56:321][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.11.08-20.24.56:321][448]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.11.08-20.24.56:347][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.11.08-20.24.56:457][455]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.11.08-20.24.57:244][457]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.11.08-20.24.57:244][457]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.11.08-20.24.57:244][457]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.11.08-20.24.57:244][457]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.24.57:244][457]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.11.08-20.24.57:244][457]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.24.57:244][457]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.11.08-20.24.57:480][473]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.24.57:480][473]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.24.57:480][473]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.24.57:480][473]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2019.11.08-20.24.58:095][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.08-20.25.01:283][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-20.25.04:486][122]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.25.04:508][122]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.25.04:526][123]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.25.04:526][123]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.25.04:526][123]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.25.04:527][123]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.25.04:671][134]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.25.04:831][144]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.25.04:975][153]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.25.05:112][163]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.25.05:112][163]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.25.05:112][163]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.25.05:112][163]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2019.11.08-20.25.08:112][428]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.25.08:139][428]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.25.08:157][429]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.25.08:157][429]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.25.08:157][429]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.25.08:157][429]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.25.08:331][441]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.25.08:493][450]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.25.08:599][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.25.08:754][467]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.25.08:754][467]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.25.08:754][467]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.25.08:754][467]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2019.11.08-20.25.09:488][539]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.25.09:522][539]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.25.09:542][540]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.25.09:542][540]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.25.09:542][540]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.25.09:542][540]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.25.09:697][551]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.11.08-20.25.09:813][558]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.25.09:946][566]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.11.08-20.25.10:074][574]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.25.10:074][574]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.25.10:074][574]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.25.10:074][574]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2019.11.08-20.25.10:558][621]LogMaterialEditor: Applying material CelShading
+[2019.11.08-20.25.10:938][621]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.25.10:959][621]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2019.11.08-20.25.10:960][621]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2019.11.08-20.25.10:960][621]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.25.10:960][621]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.11.08-20.25.10:974][621]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.25.11:002][621]LogMaterial: Display: Missing cached shader map for material CelShading, compiling. 
+[2019.11.08-20.25.11:063][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.11.08-20.25.11:064][621]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.11.08-20.25.11:088][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.11.08-20.25.11:127][623]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.11.08-20.25.11:256][630]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.11.08-20.25.11:368][637]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.11.08-20.25.11:467][643]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.11.08-20.25.11:482][644]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.08-20.25.11:498][645]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.11.08-20.25.11:550][649]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.11.08-20.25.11:676][657]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.11.08-20.25.12:197][696]MaterialEditorStats: Base pass shader without light map: 32 instructions
+[2019.11.08-20.25.12:197][696]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.11.08-20.25.12:197][696]MaterialEditorStats: Texture samplers: 3/16
+[2019.11.08-20.25.12:197][696]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(7)
+[2019.11.08-20.25.14:990][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-20.25.15:042][970]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-20.25.15:051][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-20.25.15:051][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.08-20.25.15:051][970]PIE: New page: PIE session: TopDownExampleMap (8 nov. 2019 22:25:15)
+[2019.11.08-20.25.15:053][970]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-20.25.15:065][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012124s)
+[2019.11.08-20.25.15:066][970]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.11.08-20.25.15:066][970]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2019.11.08-20.25.15:066][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013387s)
+[2019.11.08-20.25.15:089][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.11.08-20.25.15:114][970]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-20.25.15:125][970]LogInit: FAudioDevice initialized.
+[2019.11.08-20.25.15:132][970]LogLoad: Game class is 'SURINAGameMode'
+[2019.11.08-20.25.15:133][970]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.11.08-21.25.15
+[2019.11.08-20.25.15:133][970]LogWorld: Bringing up level for play took: 0.001024
+[2019.11.08-20.25.15:134][970]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.11.08-20.25.15:137][970]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0,799
+[2019.11.08-20.25.15:137][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-20.26.17:357][420]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.08-20.30.16:153][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-20.30.33:969][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-20.30.49:101][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-20.32.14:402][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-20.32.14:533][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-20.32.14:533][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-20.32.14:534][ 92]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-20.32.14:534][ 92]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-20.32.14:544][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.08-20.32.14:545][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-20.32.14:566][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-20.32.14:569][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.11.08-20.32.14:633][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.11.08-20.37.03:056][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.11.08-20.37.03:056][249]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.024
+[2019.11.08-20.37.03:058][249]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Material/_CelShading/CelShading] ([1] browsable assets)...
+[2019.11.08-20.37.03:096][249]OBJ SavePackage:     Rendered thumbnail for [Material /Game/_Material/_CelShading/CelShading.CelShading]
+[2019.11.08-20.37.03:096][249]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Material/_CelShading/CelShading]
+[2019.11.08-20.37.03:122][249]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/CelShading_Auto96DC614354AFC8FAB4F170B89763D04F9.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/Autosaves/Game/_Material/_CelShading/CelShading_Auto9.uasset'
+[2019.11.08-20.37.03:124][249]LogFileHelpers: Auto-saving content packages took 0.067
+[2019.11.08-21.07.29:134][703]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.08-21.08.25:947][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.08.26:021][466]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-21.08.26:048][466]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.08.26:048][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.08-21.08.26:048][466]PIE: New page: PIE session: TopDownExampleMap (8 nov. 2019 23:08:26)
+[2019.11.08-21.08.26:050][466]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.08.26:063][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013140s)
+[2019.11.08-21.08.26:065][466]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.11.08-21.08.26:065][466]LogPlayLevel: PIE: World Init took: (0.001885s)
+[2019.11.08-21.08.26:065][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015275s)
+[2019.11.08-21.08.26:092][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.08-21.08.26:117][466]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-21.08.26:128][466]LogInit: FAudioDevice initialized.
+[2019.11.08-21.08.26:135][466]LogLoad: Game class is 'SURINAGameMode'
+[2019.11.08-21.08.26:137][466]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.11.08-22.08.26
+[2019.11.08-21.08.26:137][466]LogWorld: Bringing up level for play took: 0.001731
+[2019.11.08-21.08.26:137][466]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.11.08-21.08.26:141][466]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0,076
+[2019.11.08-21.08.26:141][466]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.11.05:005][932]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.08-21.11.07:496][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.11.07:580][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.11.07:581][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.11.07:581][205]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.11.07:581][205]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-21.11.07:591][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.08-21.11.07:591][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.11.07:636][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.11.07:639][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.11.08-21.11.07:680][209]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.11.08-21.11.17:782][403]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.11.08-21.11.45:465][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.12.36:856][624]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-21.12.36:866][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.12.36:866][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.08-21.12.36:866][624]PIE: New page: PIE session: TopDownExampleMap (8 nov. 2019 23:12:36)
+[2019.11.08-21.12.36:868][624]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.12.36:880][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011573s)
+[2019.11.08-21.12.36:881][624]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.11.08-21.12.36:881][624]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2019.11.08-21.12.36:881][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013082s)
+[2019.11.08-21.12.36:904][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.11.08-21.12.36:934][624]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-21.12.36:948][624]LogInit: FAudioDevice initialized.
+[2019.11.08-21.12.36:958][624]LogLoad: Game class is 'SURINAGameMode'
+[2019.11.08-21.12.36:960][624]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.11.08-22.12.36
+[2019.11.08-21.12.36:960][624]LogWorld: Bringing up level for play took: 0.001501
+[2019.11.08-21.12.36:960][624]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.11.08-21.12.36:963][624]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0,925
+[2019.11.08-21.12.36:963][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.12.36:964][624]PIE: Warning: Mobility of /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap:PersistentLevel.PointLight_1 : LightComponent0 has to be 'Movable' if you'd like to move it with ProjectileMovementComponent. 
+[2019.11.08-21.12.42:015][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.12.42:108][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.12.42:108][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.12.42:108][232]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.12.42:108][232]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-21.12.42:118][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.08-21.12.42:118][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.12.42:143][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.12.42:146][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.11.08-21.12.42:213][236]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.11.08-21.12.49:387][ 72]LogSlate: Window 'Message Log' being destroyed
+[2019.11.08-21.12.49:391][ 72]LogSlate: Window 'Message Log' being destroyed
+[2019.11.08-21.12.50:887][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.08-21.12.51:922][367]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.11.08-21.12.53:025][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.12.55:008][712]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-21.12.55:029][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.12.55:029][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.08-21.12.55:030][712]PIE: New page: PIE session: TopDownExampleMap (8 nov. 2019 23:12:55)
+[2019.11.08-21.12.55:031][712]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.12.55:042][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010586s)
+[2019.11.08-21.12.55:042][712]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.11.08-21.12.55:043][712]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2019.11.08-21.12.55:043][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011801s)
+[2019.11.08-21.12.55:065][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.08-21.12.55:088][712]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-21.12.55:098][712]LogInit: FAudioDevice initialized.
+[2019.11.08-21.12.55:102][712]LogLoad: Game class is 'SURINAGameMode'
+[2019.11.08-21.12.55:104][712]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.11.08-22.12.55
+[2019.11.08-21.12.55:104][712]LogWorld: Bringing up level for play took: 0.000994
+[2019.11.08-21.12.55:104][712]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.11.08-21.12.55:107][712]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 1,07
+[2019.11.08-21.12.55:107][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.12.56:940][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.12.57:007][939]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.12.57:008][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.12.57:008][939]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.12.57:008][939]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-21.12.57:018][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.08-21.12.57:018][939]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.12.57:042][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.12.57:045][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.11.08-21.12.57:114][945]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.11.08-21.12.58:537][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.12.59:237][197]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.11.08-21.13.08:956][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.08-21.13.13:730][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.08-21.13.22:353][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.13.31:214][863]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-21.13.31:223][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.31:223][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.08-21.13.31:223][863]PIE: New page: PIE session: TopDownExampleMap (8 nov. 2019 23:13:31)
+[2019.11.08-21.13.31:225][863]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.13.31:236][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011651s)
+[2019.11.08-21.13.31:238][863]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.11.08-21.13.31:238][863]LogPlayLevel: PIE: World Init took: (0.002013s)
+[2019.11.08-21.13.31:238][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013864s)
+[2019.11.08-21.13.31:261][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.08-21.13.31:290][863]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-21.13.31:302][863]LogInit: FAudioDevice initialized.
+[2019.11.08-21.13.31:342][863]LogLoad: Game class is 'SURINAGameMode'
+[2019.11.08-21.13.31:344][863]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.11.08-22.13.31
+[2019.11.08-21.13.31:344][863]LogWorld: Bringing up level for play took: 0.001152
+[2019.11.08-21.13.31:344][863]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.11.08-21.13.31:347][863]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0,686
+[2019.11.08-21.13.31:347][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.32:906][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.32:906][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.13.32:906][ 49]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.13.32:906][ 49]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-21.13.32:916][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.08-21.13.32:916][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.32:939][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.13.32:942][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.11.08-21.13.33:011][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.11.08-21.13.35:875][399]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.11.08-21.13.37:882][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.13.42:815][215]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-21.13.42:824][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.42:824][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.08-21.13.42:824][215]PIE: New page: PIE session: TopDownExampleMap (8 nov. 2019 23:13:42)
+[2019.11.08-21.13.42:826][215]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.13.42:837][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010784s)
+[2019.11.08-21.13.42:838][215]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.11.08-21.13.42:838][215]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2019.11.08-21.13.42:838][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012487s)
+[2019.11.08-21.13.42:863][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.11.08-21.13.42:891][215]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-21.13.42:906][215]LogInit: FAudioDevice initialized.
+[2019.11.08-21.13.42:913][215]LogLoad: Game class is 'SURINAGameMode'
+[2019.11.08-21.13.42:916][215]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.11.08-22.13.42
+[2019.11.08-21.13.42:916][215]LogWorld: Bringing up level for play took: 0.001758
+[2019.11.08-21.13.42:916][215]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2019.11.08-21.13.42:919][215]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0,887
+[2019.11.08-21.13.42:919][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.44:845][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.44:845][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.13.44:845][445]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.13.44:845][445]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-21.13.44:851][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.08-21.13.44:851][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.44:876][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.13.44:878][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.11.08-21.13.44:948][453]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.11.08-21.13.46:969][687]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.11.08-21.13.49:985][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.13.56:743][827]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-21.13.56:753][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.56:753][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.08-21.13.56:753][827]PIE: New page: PIE session: TopDownExampleMap (8 nov. 2019 23:13:56)
+[2019.11.08-21.13.56:754][827]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.13.56:764][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009560s)
+[2019.11.08-21.13.56:765][827]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.11.08-21.13.56:765][827]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2019.11.08-21.13.56:765][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010969s)
+[2019.11.08-21.13.56:788][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.08-21.13.56:811][827]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-21.13.56:821][827]LogInit: FAudioDevice initialized.
+[2019.11.08-21.13.56:831][827]LogLoad: Game class is 'SURINAGameMode'
+[2019.11.08-21.13.56:833][827]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.11.08-22.13.56
+[2019.11.08-21.13.56:833][827]LogWorld: Bringing up level for play took: 0.001090
+[2019.11.08-21.13.56:852][827]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2019.11.08-21.13.56:854][827]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0,824
+[2019.11.08-21.13.56:855][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.58:323][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.58:323][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.13.58:323][  2]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.13.58:323][  2]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-21.13.58:334][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.08-21.13.58:335][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.13.58:358][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.13.58:360][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.11.08-21.13.58:430][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.11.08-21.14.00:104][210]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.11.08-21.14.04:775][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.14.40:068][936]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-21.14.40:109][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.14.40:109][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.08-21.14.40:109][936]PIE: New page: PIE session: TopDownExampleMap (8 nov. 2019 23:14:40)
+[2019.11.08-21.14.40:111][936]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.14.40:125][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014133s)
+[2019.11.08-21.14.40:126][936]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.11.08-21.14.40:127][936]LogPlayLevel: PIE: World Init took: (0.001683s)
+[2019.11.08-21.14.40:127][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016037s)
+[2019.11.08-21.14.40:157][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.11.08-21.14.40:182][936]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-21.14.40:193][936]LogInit: FAudioDevice initialized.
+[2019.11.08-21.14.40:200][936]LogLoad: Game class is 'SURINAGameMode'
+[2019.11.08-21.14.40:201][936]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.11.08-22.14.40
+[2019.11.08-21.14.40:202][936]LogWorld: Bringing up level for play took: 0.001279
+[2019.11.08-21.14.40:202][936]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2019.11.08-21.14.40:204][936]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0,179
+[2019.11.08-21.14.40:204][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.14.49:296][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.14.49:381][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.14.49:381][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.14.49:381][ 36]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.14.49:381][ 36]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-21.14.49:388][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.08-21.14.49:388][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.14.49:411][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.14.49:413][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.11.08-21.14.49:483][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.11.08-21.14.52:015][347]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.11.08-21.14.56:238][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.15.01:476][471]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-21.15.01:486][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.15.01:486][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.08-21.15.01:486][471]PIE: New page: PIE session: TopDownExampleMap (8 nov. 2019 23:15:01)
+[2019.11.08-21.15.01:487][471]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.15.01:497][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009833s)
+[2019.11.08-21.15.01:499][471]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.11.08-21.15.01:499][471]LogPlayLevel: PIE: World Init took: (0.001699s)
+[2019.11.08-21.15.01:499][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011694s)
+[2019.11.08-21.15.01:523][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.08-21.15.01:546][471]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-21.15.01:558][471]LogInit: FAudioDevice initialized.
+[2019.11.08-21.15.01:584][471]LogLoad: Game class is 'SURINAGameMode'
+[2019.11.08-21.15.01:586][471]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.11.08-22.15.01
+[2019.11.08-21.15.01:586][471]LogWorld: Bringing up level for play took: 0.000984
+[2019.11.08-21.15.01:586][471]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2019.11.08-21.15.01:589][471]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0,435
+[2019.11.08-21.15.01:589][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.15.05:539][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.15.05:623][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.15.05:624][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.15.05:624][954]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.15.05:624][954]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-21.15.05:630][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.08-21.15.05:631][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.15.05:656][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.15.05:658][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.11.08-21.15.05:723][961]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.11.08-21.15.07:029][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2019.11.08-21.15.07:540][173]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.11.08-21.15.13:002][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.15.31:704][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.08-21.15.31:714][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.15.31:714][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.08-21.15.31:714][ 51]PIE: New page: PIE session: TopDownExampleMap (8 nov. 2019 23:15:31)
+[2019.11.08-21.15.31:716][ 51]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.15.31:727][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010507s)
+[2019.11.08-21.15.31:728][ 51]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.11.08-21.15.31:728][ 51]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2019.11.08-21.15.31:728][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012328s)
+[2019.11.08-21.15.31:753][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.08-21.15.31:782][ 51]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.08-21.15.31:793][ 51]LogInit: FAudioDevice initialized.
+[2019.11.08-21.15.31:801][ 51]LogLoad: Game class is 'SURINAGameMode'
+[2019.11.08-21.15.31:803][ 51]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.11.08-22.15.31
+[2019.11.08-21.15.31:803][ 51]LogWorld: Bringing up level for play took: 0.001168
+[2019.11.08-21.15.31:803][ 51]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2019.11.08-21.15.31:806][ 51]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0,214
+[2019.11.08-21.15.31:806][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.15.35:470][490]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.15.35:470][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.15.35:470][490]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.08-21.15.35:471][490]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-21.15.35:482][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.08-21.15.35:482][490]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.08-21.15.35:506][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.08-21.15.35:509][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.08-21.15.35:570][497]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.11.08-21.15.37:522][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.08-21.15.37:970][761]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.11.08-21.15.38:982][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.16.05:154][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.11.08-21.16.05:349][221]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap_Auto0FA37BE9045696083B3C73DB5C563B4B9.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/Autosaves/Game/TopDownCPP/Maps/TopDownExampleMap_Auto0.umap'
+[2019.11.08-21.16.05:352][221]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownCPP/Maps/TopDownExampleMap' took 0.232
+[2019.11.08-21.16.05:352][221]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.232
+[2019.11.08-21.18.01:830][304]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.08-21.18.04:806][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.11.08-21.18.05:987][626]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.08-21.18.06:046][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.11.08-21.18.11:109][806]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.08-21.18.17:532][572]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/_Script/EasyMouv.EasyMouv
+[2019.11.08-21.18.19:600][572]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0644 seconds. Added 121 classes and 0 folders.
+[2019.11.08-21.18.26:163][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.19.17:902][653]BlueprintLog: New page: Compile EasyMouv
+[2019.11.08-21.19.18:128][653]LogUObjectHash: Compacting FUObjectHashTables data took  19.94ms
+[2019.11.08-21.19.19:301][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Script/EasyMouv" FILE="../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/_Script/EasyMouv.uasset" SILENT=true
+[2019.11.08-21.19.19:392][765]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/EasyMouv189F2EF24571EBF16070E5A07627E7DE.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/_Script/EasyMouv.uasset'
+[2019.11.08-21.21.57:606][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Script/EasyMouv" FILE="../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/_Script/EasyMouv.uasset" SILENT=true
+[2019.11.08-21.21.57:629][299]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/EasyMouv107A2491419BC15186FEAD87AAA97401.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/_Script/EasyMouv.uasset'
+[2019.11.08-21.22.34:862][214]LogSlate: Took 0.055221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.08-21.25.58:372][505]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.08-21.26.01:122][766]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2019.11.08-21.26.02:280][766]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.08-21.26.02:349][766]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_Script/EasyMouv.EasyMouv
+[2019.11.08-21.26.02:607][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.11.08-21.26.02:796][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.11.08-21.26.02:821][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.11.08-21.26.02:841][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.08-21.26.05:091][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2019.11.08-21.26.05:649][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.08-21.26.05:681][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.08-21.26.05:854][ 95]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMapA92B6AC049259D3A8EE001B792D60B9F.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2019.11.08-21.26.05:965][ 95]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap_BuiltData9348133C4168F4623879ACB62368C844.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.11.08-21.26.10:359][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.08-21.26.12:726][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.08-21.26.13:163][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2019.11.08-21.26.15:456][209]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.11.08-21.27.57:622][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.08-21.27.58:130][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2019.11.08-21.27.58:295][498]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap9E89B0E640EF33E98E7F38A47366E6EF.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2019.11.08-21.27.58:390][498]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap_BuiltDataE13846D043CF58487ACBCBAC8529A458.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap_BuiltData.uasset'
