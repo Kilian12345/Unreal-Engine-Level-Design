@@ -5625,3 +5625,144 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.26-14.27.44:207][333]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2019.11.26-14.27.48:078][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.26-15.02.38:663][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.26-16.09.46:336][ 27]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{a4ccfd79-f077-42ac-b712-06bacd2e64f9} was removed. Shutting down audio device.
+[2019.11.26-16.09.46:336][ 27]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{a4ccfd79-f077-42ac-b712-06bacd2e64f9} was removed. Shutting down audio device.
+[2019.11.26-16.09.46:336][ 27]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.26-16.09.46:411][ 27]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.26-18.15.06:808][433]LogStats: FPlatformStackWalk::StackWalkAndDump -  9.851 s
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: 
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: Ensure condition failed: Lhs.Array.Num() == Lhs.InitialNum [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h] [Line: 884]
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: Container has changed during ranged-for iteration!
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: Stack: 
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: [Callstack] 0x00007ffe356f5379 UE4Editor-XAudio2.dll!UnknownFunction []
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: [Callstack] 0x00007ffe356e670c UE4Editor-XAudio2.dll!UnknownFunction []
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: [Callstack] 0x00007ffea892cf8a MMDevApi.dll!UnknownFunction []
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: [Callstack] 0x00007ffea8919956 MMDevApi.dll!UnknownFunction []
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: [Callstack] 0x00007ffea88f75db MMDevApi.dll!UnknownFunction []
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: [Callstack] 0x00007ffeb2b92f13 ntdll.dll!UnknownFunction []
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: [Callstack] 0x00007ffeb2b94634 ntdll.dll!UnknownFunction []
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: [Callstack] 0x00007ffeb1497bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: [Callstack] 0x00007ffeb2bcced1 ntdll.dll!UnknownFunction []
+[2019.11.26-18.15.06:808][433]LogOutputDevice: Error: 
+[2019.11.26-18.15.06:808][433]LogStats:                SubmitErrorReport -  0.000 s
+[2019.11.26-18.15.06:808][433]LogStats:                    SendNewReport - 19.272 s
+[2019.11.26-18.15.06:808][433]LogStats:             FDebug::EnsureFailed - 29.147 s
+[2019.11.26-18.15.06:808][433]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.26-18.15.06:868][433]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.26-18.21.35:166][775]LogSlate: Window 'Message' being destroyed
+[2019.11.26-18.21.40:019][775]LogMaterial: Display: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2019.11.26-18.21.40:675][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2019.11.26-18.21.40:675][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2019.11.26-18.21.40:675][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2019.11.26-18.21.40:675][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2019.11.26-18.21.41:046][775]LogMaterial: Display: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2019.11.26-18.21.41:385][775]LogMaterial: Display: Missing cached shader map for material M_Cursor_Decal, compiling. 
+[2019.11.26-18.21.41:615][775]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2019.11.26-18.21.41:616][775]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.11.26-18.21.41:647][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.11.26-18.21.43:435][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2019.11.26-18.21.43:435][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 79
+[2019.11.26-18.21.43:469][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2019.11.26-18.21.43:520][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 77
+[2019.11.26-18.21.43:638][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 76
+[2019.11.26-18.21.43:689][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 75
+[2019.11.26-18.21.43:706][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 74
+[2019.11.26-18.21.43:774][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 73
+[2019.11.26-18.21.43:808][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 72
+[2019.11.26-18.21.43:825][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2019.11.26-18.21.43:893][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2019.11.26-18.21.43:978][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 69
+[2019.11.26-18.21.43:995][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 68
+[2019.11.26-18.21.44:046][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2019.11.26-18.21.44:450][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2019.11.26-18.21.44:483][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2019.11.26-18.21.44:603][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2019.11.26-18.21.44:774][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 63
+[2019.11.26-18.21.44:876][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2019.11.26-18.21.44:927][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 61
+[2019.11.26-18.21.45:096][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 60
+[2019.11.26-18.21.45:215][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2019.11.26-18.21.45:300][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2019.11.26-18.21.45:334][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 57
+[2019.11.26-18.21.45:538][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2019.11.26-18.21.45:735][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2019.11.26-18.21.45:789][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2019.11.26-18.21.45:825][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 53
+[2019.11.26-18.21.46:065][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2019.11.26-18.21.46:099][775]LogSlate: Window 'Message' being destroyed
+[2019.11.26-18.21.46:273][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2019.11.26-18.21.46:308][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2019.11.26-18.21.46:318][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2019.11.26-18.21.46:575][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2019.11.26-18.21.46:745][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2019.11.26-18.21.46:745][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2019.11.26-18.21.46:796][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2019.11.26-18.21.47:104][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2019.11.26-18.21.47:223][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2019.11.26-18.21.47:257][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2019.11.26-18.21.47:308][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.11.26-18.21.47:325][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.11.26-18.21.48:921][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.11.26-18.21.49:554][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.11.26-18.21.50:029][775]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.11.26-18.21.50:386][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.11.26-18.21.50:776][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.11.26-18.21.50:979][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.11.26-18.21.54:632][775]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2019.11.26-18.21.55:097][775]LogMaterial: Display: Missing cached shader map for material Cursor, compiling. 
+[2019.11.26-18.21.55:098][775]LogMaterial: Warning: /Engine/Transient.Cursor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.26-18.21.55:098][775]LogMaterial: Display: 	(Node SceneTexture) Decals (MaterialDomain=DeferredDecal) can only access WorldNormal, AmbientOcclusion, SceneDepth, CustomDepth, CustomStencil
+[2019.11.26-18.21.55:098][775]LogMaterial: Display: 	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface.
+[2019.11.26-18.21.55:098][775]LogMaterial: Display: 	(Node If) If input A must be of type float.
+[2019.11.26-18.21.55:098][775]LogMaterial: Display: 	Only 'surface' material domain can use the scene color node.
+[2019.11.26-18.21.55:158][775]LogMaterial: Display: Missing cached shader map for material Cursor, compiling. 
+[2019.11.26-18.21.55:159][775]LogMaterial: Warning: C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Content\_Material\_Cursor\Cursor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.26-18.21.55:159][775]LogMaterial: Display: 	(Node SceneTexture) Decals (MaterialDomain=DeferredDecal) can only access WorldNormal, AmbientOcclusion, SceneDepth, CustomDepth, CustomStencil
+[2019.11.26-18.21.55:159][775]LogMaterial: Display: 	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface.
+[2019.11.26-18.21.55:159][775]LogMaterial: Display: 	(Node If) If input A must be of type float.
+[2019.11.26-18.21.55:159][775]LogMaterial: Display: 	Only 'surface' material domain can use the scene color node.
+[2019.11.26-18.21.55:207][775]LogMaterial: Display: Missing cached shader map for material Cursor, compiling. 
+[2019.11.26-18.21.55:208][775]LogMaterial: Warning: C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Content\_Material\_Cursor\Cursor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.26-18.21.55:208][775]LogMaterial: Display: 	(Node SceneTexture) Decals (MaterialDomain=DeferredDecal) can only access WorldNormal, AmbientOcclusion, SceneDepth, CustomDepth, CustomStencil
+[2019.11.26-18.21.55:208][775]LogMaterial: Display: 	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface.
+[2019.11.26-18.21.55:208][775]LogMaterial: Display: 	(Node If) If input A must be of type float.
+[2019.11.26-18.21.55:208][775]LogMaterial: Display: 	Only 'surface' material domain can use the scene color node.
+[2019.11.26-18.21.55:240][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.11.26-18.21.55:240][775]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.11.26-18.21.55:267][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.26-18.21.55:327][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.11.26-18.21.56:596][775]LogSlate: Window 'Save Content' being destroyed
+[2019.11.26-18.21.57:038][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Material/_Cursor/Cursor" FILE="../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/_Material/_Cursor/Cursor.uasset" SILENT=true
+[2019.11.26-18.21.57:402][775]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/Cursor7C0E169B4D1B6E6893067284E56D9DFB.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/_Material/_Cursor/Cursor.uasset'
+[2019.11.26-18.21.57:746][775]LogSavePackage: Moving '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Saved/M_Cursor_DecalFF8ED95348DDBE689D87989A52DA361C.tmp' to '../../../../../../Users/k.allaire/Desktop/Github/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Blueprints/M_Cursor_Decal.uasset'
+[2019.11.26-18.22.15:351][775]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.22.16:092][775]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.22.16:397][775]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.22.16:708][775]LogSlate: Window 'Cursor' being destroyed
+[2019.11.26-18.22.17:958][775]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.22.18:321][775]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.26-18.22.20:262][775]LogSlate: Window 'SURINA - Unreal Editor' being destroyed
+[2019.11.26-18.22.20:702][775]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.26-18.22.20:702][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-18.22.20:702][775]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.11.26-18.22.20:703][775]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.22.20:724][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.26-18.22.20:724][775]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.11.26-18.22.20:897][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.26-18.22.20:960][775]LogUObjectHash: Compacting FUObjectHashTables data took  19.30ms
+[2019.11.26-18.22.21:908][776]Cmd: QUIT_EDITOR
+[2019.11.26-18.22.23:575][776]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.26-18.22.23:869][776]LogExit: Preparing to exit.
+[2019.11.26-18.22.25:613][776]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.22.25:619][776]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.22.25:639][776]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.26-18.22.25:639][776]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.26-18.22.25:639][776]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.26-18.22.25:639][776]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.22.25:640][776]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.22.25:642][776]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.22.26:332][776]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.26-18.22.27:241][776]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.26-18.22.27:287][776]LogExit: Editor shut down
+[2019.11.26-18.22.27:352][776]LogExit: Transaction tracking system shut down
