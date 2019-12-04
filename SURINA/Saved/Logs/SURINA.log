@@ -880,3 +880,226 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.04-15.31.09:995][780]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
 [2019.12.04-15.31.10:012][780]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2872 classes and 685 folders.
 [2019.12.04-15.31.10:031][780]Display: HotReload took 10.1s.
+[2019.12.04-15.32.14:305][477]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-15.32.14:364][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.32.14:365][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-15.32.14:365][477]PIE: New page: PIE session: TopDownExampleMap (4 déc. 2019 17:32:14)
+[2019.12.04-15.32.14:365][477]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.04-15.32.14:381][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016310s)
+[2019.12.04-15.32.14:383][477]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.04-15.32.14:383][477]LogPlayLevel: PIE: World Init took: (0.001499s)
+[2019.12.04-15.32.14:383][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017996s)
+[2019.12.04-15.32.14:480][477]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.12.04-15.32.14:509][477]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-15.32.14:520][477]LogInit: FAudioDevice initialized.
+[2019.12.04-15.32.14:525][477]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.04-15.32.14:527][477]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.04-16.32.14
+[2019.12.04-15.32.14:528][477]LogWorld: Bringing up level for play took: 0.001946
+[2019.12.04-15.32.14:528][477]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.04-15.32.14:530][477]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0,873
+[2019.12.04-15.32.14:530][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.32.21:053][257]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.32.21:053][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.32.21:053][257]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.04-15.32.21:053][257]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-15.32.21:061][257]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-15.32.21:061][257]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.32.21:104][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.32.21:130][257]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.12.04-15.32.21:152][258]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.04-15.32.21:777][330]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-15.32.21:817][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.12.04-15.32.22:045][330]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap94E83F1E41DB745482DEF48E03E09BED.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2019.12.04-15.32.22:175][330]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap_BuiltData5D3B142D447192F655B1AD976831305F.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.12.04-15.32.36:102][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.04-15.32.37:957][192]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.32.38:015][199]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-15.32.38:063][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.32.38:063][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-15.32.38:063][199]PIE: New page: PIE session: TopDownExampleMap (4 déc. 2019 17:32:38)
+[2019.12.04-15.32.38:063][199]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.04-15.32.38:072][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008918s)
+[2019.12.04-15.32.38:073][199]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.04-15.32.38:074][199]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2019.12.04-15.32.38:074][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010333s)
+[2019.12.04-15.32.38:116][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.12.04-15.32.38:139][199]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-15.32.38:148][199]LogInit: FAudioDevice initialized.
+[2019.12.04-15.32.38:158][199]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.04-15.32.38:160][199]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.04-16.32.38
+[2019.12.04-15.32.38:161][199]LogWorld: Bringing up level for play took: 0.001988
+[2019.12.04-15.32.38:161][199]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.12.04-15.32.38:163][199]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0,515
+[2019.12.04-15.32.38:163][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.33.00:098][820]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.33.00:098][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.33.00:098][820]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.04-15.33.00:098][820]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-15.33.00:105][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-15.33.00:105][820]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.33.00:147][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.33.00:156][820]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.12.04-15.33.00:199][822]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.12.04-15.33.02:673][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.04-15.33.02:765][130]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.04-15.33.02:798][130]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.33.02:798][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.04-15.33.02:798][130]PIE: New page: PIE session: TopDownExampleMap (4 déc. 2019 17:33:02)
+[2019.12.04-15.33.02:799][130]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.04-15.33.02:809][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010587s)
+[2019.12.04-15.33.02:810][130]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.12.04-15.33.02:811][130]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2019.12.04-15.33.02:811][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012032s)
+[2019.12.04-15.33.02:856][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.04-15.33.02:878][130]LogInit: XAudio2 using 'Headphones (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.04-15.33.02:887][130]LogInit: FAudioDevice initialized.
+[2019.12.04-15.33.02:893][130]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.04-15.33.02:894][130]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.12.04-16.33.02
+[2019.12.04-15.33.02:895][130]LogWorld: Bringing up level for play took: 0.001741
+[2019.12.04-15.33.02:895][130]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.04-15.33.02:897][130]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0,743
+[2019.12.04-15.33.02:897][130]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.33.13:904][435]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.12.04-15.33.14:001][436]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2019.12.04-15.33.14:001][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2019.12.04-15.33.14:001][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.12.04-15.33.14:001][436]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.12.04-15.33.14:009][436]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.12.04-15.33.14:066][437]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.12.04-15.33.14:094][438]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.12.04-15.33.17:362][775]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 132
+[2019.12.04-15.33.17:491][789]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2019.12.04-15.33.17:779][817]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 112
+[2019.12.04-15.33.19:498][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 102
+[2019.12.04-15.33.19:506][  5]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2019.12.04-15.33.19:531][  8]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2019.12.04-15.33.20:065][ 62]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2019.12.04-15.33.20:140][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.33.20:140][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.33.20:140][ 70]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2019.12.04-15.33.20:141][ 70]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.04-15.33.20:154][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.04-15.33.20:155][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.12.04-15.33.20:234][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.04-15.33.20:243][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2019.12.04-15.33.20:273][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.04-15.33.20:766][123]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.12.04-15.33.20:848][123]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.04-15.33.21:113][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.04-15.33.21:751][195]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2019.12.04-15.33.22:012][217]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2019.12.04-15.33.22:082][223]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2019.12.04-15.33.23:695][364]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2019.12.04-15.33.24:483][424]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.12.04-15.33.25:334][485]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2019.12.04-15.33.25:414][491]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.12.04-15.33.25:610][505]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2019.12.04-15.33.25:901][529]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.12.04-15.33.26:818][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2019.12.04-15.33.26:818][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.04-15.33.27:055][622]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.12.04-15.33.27:644][686]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.04-15.33.57:571][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_BasicGuard.BP_BasicGuard_C' ref from Metadata '/Game/_Blueprints/BP_BasicGuard.PackageMetaData'
+[2019.12.04-15.33.57:571][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_BasicGuard.BP_BasicGuard:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Blueprints/BP_BasicGuard.PackageMetaData'
+[2019.12.04-15.33.57:571][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_BasicGuard.BP_BasicGuard:UpdateWalkSpeed.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Blueprints/BP_BasicGuard.PackageMetaData'
+[2019.12.04-15.33.57:572][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_BasicGuard.SKEL_BP_BasicGuard_C:NewWalkSpeed' ref from Metadata '/Game/_Blueprints/BP_BasicGuard.PackageMetaData'
+[2019.12.04-15.33.57:572][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_BasicGuard.SKEL_BP_BasicGuard_C:Cube' ref from Metadata '/Game/_Blueprints/BP_BasicGuard.PackageMetaData'
+[2019.12.04-15.33.57:572][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_BasicGuard.SKEL_BP_BasicGuard_C:UserConstructionScript' ref from Metadata '/Game/_Blueprints/BP_BasicGuard.PackageMetaData'
+[2019.12.04-15.33.57:572][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_BasicGuard.SKEL_BP_BasicGuard_C:UpdateWalkSpeed' ref from Metadata '/Game/_Blueprints/BP_BasicGuard.PackageMetaData'
+[2019.12.04-15.33.57:572][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_BasicGuard.SKEL_BP_BasicGuard_C' ref from Metadata '/Game/_Blueprints/BP_BasicGuard.PackageMetaData'
+[2019.12.04-15.33.57:572][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_BasicGuard.BP_BasicGuard_C:NewWalkSpeed' ref from Metadata '/Game/_Blueprints/BP_BasicGuard.PackageMetaData'
+[2019.12.04-15.33.57:572][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_BasicGuard.BP_BasicGuard_C:Cube' ref from Metadata '/Game/_Blueprints/BP_BasicGuard.PackageMetaData'
+[2019.12.04-15.33.57:572][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_BasicGuard.BP_BasicGuard_C:UpdateWalkSpeed' ref from Metadata '/Game/_Blueprints/BP_BasicGuard.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.BP_GuardController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.BP_GuardController_C' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.BP_GuardController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.BP_GuardController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.SKEL_BP_GuardController_C:ReceiveBeginPlay' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.SKEL_BP_GuardController_C:ReceiveTick' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.SKEL_BP_GuardController_C:ReceivePossess' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.SKEL_BP_GuardController_C:BndEvt__AIPerception_K2Node_ComponentBoundEvent_1_ActorPerceptionUpdatedDelegate__DelegateSignature' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.SKEL_BP_GuardController_C:EnemyActor' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.SKEL_BP_GuardController_C:HasLineOfSight' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.SKEL_BP_GuardController_C:EnemyTimer' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.SKEL_BP_GuardController_C:LineOfSightTimer' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:591][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.SKEL_BP_GuardController_C:AIPerception' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:592][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.SKEL_BP_GuardController_C:UserConstructionScript' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:592][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.SKEL_BP_GuardController_C' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:592][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.BP_GuardController_C:EnemyActor' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:592][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.BP_GuardController_C:HasLineOfSight' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:592][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.BP_GuardController_C:EnemyTimer' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:592][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.BP_GuardController_C:LineOfSightTimer' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:592][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.BP_GuardController_C:AIPerception' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:592][411]LogMetaData: Removing '/Game/_Blueprints/AI/BP_GuardController.BP_GuardController_C:ReceivePossess' ref from Metadata '/Game/_Blueprints/BP_GuardController.PackageMetaData'
+[2019.12.04-15.33.57:601][411]LogMetaData: Removing '/Game/_Blueprints/AI/BTT_ChasePlayer.BTT_ChasePlayer_C' ref from Metadata '/Game/_Blueprints/BTT_ChasePlayer.PackageMetaData'
+[2019.12.04-15.33.57:601][411]LogMetaData: Removing '/Game/_Blueprints/AI/BTT_ChasePlayer.SKEL_BTT_ChasePlayer_C:ReceiveExecuteAI' ref from Metadata '/Game/_Blueprints/BTT_ChasePlayer.PackageMetaData'
+[2019.12.04-15.33.57:601][411]LogMetaData: Removing '/Game/_Blueprints/AI/BTT_ChasePlayer.SKEL_BTT_ChasePlayer_C:ChaseSpeed' ref from Metadata '/Game/_Blueprints/BTT_ChasePlayer.PackageMetaData'
+[2019.12.04-15.33.57:601][411]LogMetaData: Removing '/Game/_Blueprints/AI/BTT_ChasePlayer.SKEL_BTT_ChasePlayer_C' ref from Metadata '/Game/_Blueprints/BTT_ChasePlayer.PackageMetaData'
+[2019.12.04-15.33.57:601][411]LogMetaData: Removing '/Game/_Blueprints/AI/BTT_ChasePlayer.BTT_ChasePlayer_C:ChaseSpeed' ref from Metadata '/Game/_Blueprints/BTT_ChasePlayer.PackageMetaData'
+[2019.12.04-15.33.57:601][411]LogMetaData: Removing '/Game/_Blueprints/AI/BTT_ChasePlayer.BTT_ChasePlayer_C:ReceiveExecuteAI' ref from Metadata '/Game/_Blueprints/BTT_ChasePlayer.PackageMetaData'
+[2019.12.04-15.33.57:613][411]LogMetaData: Removing '/Game/_Blueprints/AI/BTT_Patrol.BTT_Patrol_C' ref from Metadata '/Game/_Blueprints/BTT_Patrol.PackageMetaData'
+[2019.12.04-15.33.57:613][411]LogMetaData: Removing '/Game/_Blueprints/AI/BTT_Patrol.SKEL_BTT_Patrol_C' ref from Metadata '/Game/_Blueprints/BTT_Patrol.PackageMetaData'
+[2019.12.04-15.33.57:625][411]LogMetaData: Removing '/Game/_Blueprints/AI/BT_Guard.BT_Guard:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/_Blueprints/BT_Guard.PackageMetaData'
+[2019.12.04-15.33.57:673][411]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BB_GuardD567A5BE4B06CFFDC12CE18C486D0BCA.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/AI/BB_Guard.uasset'
+[2019.12.04-15.33.57:862][411]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BP_BasicGuardAADCDFBD4DDDF891CD721E81BD8D44E7.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/AI/BP_BasicGuard.uasset'
+[2019.12.04-15.33.57:884][411]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BP_BasicGuard1642008D427BB420635C399213DBB453.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/BP_BasicGuard.uasset'
+[2019.12.04-15.33.58:023][411]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BP_GuardController541737E54DE4454B3FDB15BFF55F3133.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/AI/BP_GuardController.uasset'
+[2019.12.04-15.33.58:043][411]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BTT_ChasePlayer3CE8A2F04D891DB2E18CDDA3EFDBE12F.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/AI/BTT_ChasePlayer.uasset'
+[2019.12.04-15.33.58:056][411]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BTT_PatrolA218761244506351EB8AB296FD3D291E.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/AI/BTT_Patrol.uasset'
+[2019.12.04-15.33.58:251][411]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BT_Guard3BA30ABA494C4B69B0C6399ED709DFEB.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/AI/BT_Guard.uasset'
+[2019.12.04-15.33.59:103][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.12.04-15.33.59:139][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.12.04-15.33.59:175][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.12.04-15.33.59:209][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.12.04-15.33.59:244][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.12.04-15.33.59:283][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.12.04-15.33.59:318][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.12.04-15.33.59:350][411]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/_Blueprints/AI/BP_BasicGuard.
+[2019.12.04-15.33.59:363][411]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/_Blueprints/AI/BP_GuardController.
+[2019.12.04-15.33.59:369][411]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/_Blueprints/AI/BTT_ChasePlayer.
+[2019.12.04-15.33.59:374][411]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/_Blueprints/AI/BTT_Patrol.
+[2019.12.04-15.34.03:001][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.BP_MyKnifeProjectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:002][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.SKEL_BP_MyKnifeProjectile_C' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:002][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.BP_MyKnifeProjectile_C' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:002][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.BP_MyKnifeProjectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:002][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.BP_MyKnifeProjectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:002][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.BP_MyKnifeProjectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:002][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.SKEL_BP_MyKnifeProjectile_C:ReceiveBeginPlay' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:002][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.SKEL_BP_MyKnifeProjectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:002][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.SKEL_BP_MyKnifeProjectile_C:ReceiveTick' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:002][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.SKEL_BP_MyKnifeProjectile_C:Cube' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:002][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.SKEL_BP_MyKnifeProjectile_C:UserConstructionScript' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:002][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyKnifeProjectile.BP_MyKnifeProjectile_C:Cube' ref from Metadata '/Game/_Blueprints/BP_MyKnifeProjectile.PackageMetaData'
+[2019.12.04-15.34.03:009][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.BP_MyPlayerCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:009][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.SKEL_BP_MyPlayerCharacter_C' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.BP_MyPlayerCharacter_C' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.BP_MyPlayerCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.BP_MyPlayerCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.BP_MyPlayerCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.BP_MyPlayerCharacter_C:Cube1' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.BP_MyPlayerCharacter_C:Camera' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.BP_MyPlayerCharacter_C:SpringArm' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.SKEL_BP_MyPlayerCharacter_C:UserConstructionScript' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.SKEL_BP_MyPlayerCharacter_C:Cube1' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.SKEL_BP_MyPlayerCharacter_C:Camera' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.SKEL_BP_MyPlayerCharacter_C:SpringArm' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.SKEL_BP_MyPlayerCharacter_C:ReceiveTick' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.SKEL_BP_MyPlayerCharacter_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:010][737]LogMetaData: Removing '/Game/_Blueprints/Player/BP_MyPlayerCharacter.SKEL_BP_MyPlayerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/_Blueprints/BP_MyPlayerCharacter.PackageMetaData'
+[2019.12.04-15.34.03:109][737]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BP_MyKnifeProjectileDFB651374796A341E5DF2DA23C85205F.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/Player/BP_MyKnifeProjectile.uasset'
+[2019.12.04-15.34.03:214][737]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BP_MyPlayerCharacterEFBCE03A4D8F3312FB020C9B946E27CB.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/Player/BP_MyPlayerCharacter.uasset'
+[2019.12.04-15.34.03:556][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.12.04-15.34.03:592][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.04-15.34.03:636][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.12.04-15.34.03:675][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.04-15.34.03:702][737]LogSavePackage: Moving '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BP_GameMode92F093AF496F6373CBEEB7AC870CCF9B.tmp' to '../../../../../../Users/l.gombert/Documents/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/BP_GameMode.uasset'
+[2019.12.04-15.34.03:745][737]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/_Blueprints/Player/BP_MyKnifeProjectile.
+[2019.12.04-15.34.03:754][737]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/_Blueprints/Player/BP_MyPlayerCharacter.
+[2019.12.04-15.34.04:999][865]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.04-15.34.07:126][865]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.04-15.34.07:129][865]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_Blueprints/BP_SURINACharacter.BP_SURINACharacter
+[2019.12.04-15.34.11:018][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.12.04-15.34.11:332][865]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.12.04-15.34.11:373][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.04-15.34.11:407][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
