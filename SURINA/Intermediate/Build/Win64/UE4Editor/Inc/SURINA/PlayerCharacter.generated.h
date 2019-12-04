@@ -13,8 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define SURINA_PlayerCharacter_generated_h
 
-#define SURINA_Source_SURINA_Public_PlayerCharacter_h_12_RPC_WRAPPERS
-#define SURINA_Source_SURINA_Public_PlayerCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define SURINA_Source_SURINA_Public_PlayerCharacter_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execFire) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->Fire(); \
+		P_NATIVE_END; \
+	}
+
+
+#define SURINA_Source_SURINA_Public_PlayerCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execFire) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->Fire(); \
+		P_NATIVE_END; \
+	}
+
+
 #define SURINA_Source_SURINA_Public_PlayerCharacter_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPlayerCharacter(); \
@@ -57,7 +77,12 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(APlayerCharacter); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(APlayerCharacter)
 
 
-#define SURINA_Source_SURINA_Public_PlayerCharacter_h_12_PRIVATE_PROPERTY_OFFSET
+#define SURINA_Source_SURINA_Public_PlayerCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__MoveSpeed() { return STRUCT_OFFSET(APlayerCharacter, MoveSpeed); } \
+	FORCEINLINE static uint32 __PPO__CursorToWorld() { return STRUCT_OFFSET(APlayerCharacter, CursorToWorld); } \
+	FORCEINLINE static uint32 __PPO__LaunchSpeed() { return STRUCT_OFFSET(APlayerCharacter, LaunchSpeed); }
+
+
 #define SURINA_Source_SURINA_Public_PlayerCharacter_h_9_PROLOG
 #define SURINA_Source_SURINA_Public_PlayerCharacter_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
