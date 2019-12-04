@@ -128,6 +128,6 @@ void APlayerCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCom
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 	PlayerInputComponent->BindAction("SetDestination", IE_Pressed, this, &APlayerCharacter::GetNewLocation);
-	//PlayerInputComponent->BindAction("SetDestination", IE_Pressed, this, &APlayerCharacter::Fire);
+	PlayerInputComponent->BindAction("SetDestination", IE_Pressed, this, &APlayerCharacter::Fire);
 
 }
