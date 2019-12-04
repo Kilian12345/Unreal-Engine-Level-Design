@@ -120,7 +120,6 @@ void APlayerCharacter::Tick(float DeltaTime)
 	FVector Direction = FVector (TargetPosition.X - ActorLocation.X, TargetPosition.Y - ActorLocation.Y, .0f);
 
 	AddMovementInput(Direction * MoveSpeed, DeltaTime);
-	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow, FString::Printf(TEXT("Mouse variable values: PositionX: %f, PositionY: %f"), ActorLocation.X, ActorLocation.Y));
 }
 
 // Called to bind functionality to input
@@ -129,6 +128,6 @@ void APlayerCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCom
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 	PlayerInputComponent->BindAction("SetDestination", IE_Pressed, this, &APlayerCharacter::GetNewLocation);
-	PlayerInputComponent->BindAction("SetDestination", IE_Pressed, this, &APlayerCharacter::Fire);
+	//PlayerInputComponent->BindAction("SetDestination", IE_Pressed, this, &APlayerCharacter::Fire);
 
 }
