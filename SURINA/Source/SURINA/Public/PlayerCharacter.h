@@ -26,14 +26,15 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
 		FVector MuzzleOffset;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Player Variables")
+		float MoveSpeed;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 	void GetNewLocation();
 
-	UPROPERTY(EditAnywhere, Category = "Player Variables")
-		float MoveSpeed;
 
 		FVector TargetPosition;
 

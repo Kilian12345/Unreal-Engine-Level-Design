@@ -1,14 +1,14 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design).
   Parsing headers for SURINAEditor
     Running UnrealHeaderTool "C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\SURINA.uproject" "C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\SURINAEditor\Development\SURINAEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for SURINAEditor in 5,9514777 seconds
+  Reflection code generated for SURINAEditor in 5,7312942 seconds
   Using Visual Studio 2019 14.21.27702 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 8 processes...
     [1/4] PlayerCharacter.cpp
-    [2/4] UE4Editor-SURINA-0005.lib
-       Creating library C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\UE4Editor-SURINA-0005.lib and object C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\UE4Editor-SURINA-0005.exp
-    [3/4] UE4Editor-SURINA-0005.dll
-       Creating library C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\UE4Editor-SURINA-0005.suppressed.lib and object C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\UE4Editor-SURINA-0005.suppressed.exp
+    [2/4] UE4Editor-SURINA-0025.lib
+       Creating library C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\UE4Editor-SURINA-0025.lib and object C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\UE4Editor-SURINA-0025.exp
+    [3/4] UE4Editor-SURINA-0025.dll
+       Creating library C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\UE4Editor-SURINA-0025.suppressed.lib and object C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\UE4Editor-SURINA-0025.suppressed.exp
     [4/4] SURINAEditor.target
-  Total time in Parallel executor: 3,48 seconds
-  Total execution time: 10,10 seconds
+  Total time in Parallel executor: 3,57 seconds
+  Total execution time: 10,12 seconds

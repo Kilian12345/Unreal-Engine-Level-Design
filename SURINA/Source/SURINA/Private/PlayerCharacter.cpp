@@ -44,11 +44,13 @@ void APlayerCharacter::BeginPlay()
 
 void APlayerCharacter::GetNewLocation()
 {
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Green, FString::Printf(TEXT("Here")));
+
 	if (APlayerController *PlayerController = Cast<APlayerController>(GetController()))
 	{
 		FHitResult TraceHitResult;
 		PlayerController->GetHitResultUnderCursor(ECC_Visibility, true, TraceHitResult);
-		TargetPosition = TraceHitResult.ImpactPoint;
+		TargetPosition = TraceHitResult.Location;
 		FRotator Rotation = TargetPosition.Rotation();
 
 		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow, FString::Printf(TEXT("Mouse variable values: PositionX: %f, PositionY: %f"), TargetPosition.X, TargetPosition.Y));
@@ -60,6 +62,7 @@ void APlayerCharacter::Fire()
 	// Attempt to fire a projectile.
 	if (ProjectileBlueprint)
 	{
+		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Green, FString::Printf(TEXT("Here")));
 		FVector CursorLocation;
 		FRotator CursorRotation;
 
@@ -119,7 +122,7 @@ void APlayerCharacter::Tick(float DeltaTime)
 	FVector ActorLocation = GetActorLocation();
 	FVector Direction = FVector (TargetPosition.X - ActorLocation.X, TargetPosition.Y - ActorLocation.Y, .0f);
 
-	AddMovementInput(Direction * MoveSpeed, DeltaTime);
+	AddActorLocalOffset(Direction * MoveSpeed, true);
 }
 
 // Called to bind functionality to input
@@ -128,6 +131,6 @@ void APlayerCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCom
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 	PlayerInputComponent->BindAction("SetDestination", IE_Pressed, this, &APlayerCharacter::GetNewLocation);
-	PlayerInputComponent->BindAction("SetDestination", IE_Pressed, this, &APlayerCharacter::Fire);
+	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &APlayerCharacter::Fire);
 
 }

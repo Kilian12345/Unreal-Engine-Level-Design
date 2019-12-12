@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeSURINA_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x4A242058,
+				0x9CF66015,
 				0x9843A471,
 				METADATA_PARAMS(nullptr, 0)
 			};
