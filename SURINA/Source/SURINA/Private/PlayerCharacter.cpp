@@ -16,6 +16,7 @@
 #include "Math/Vector.h"
 #include <EngineGlobals.h>
 #include <Runtime/Engine/Classes/Engine/Engine.h>
+#include "Runtime/Engine/Public/TimerManager.h"
 
 // Sets default values
 APlayerCharacter::APlayerCharacter()
@@ -32,6 +33,47 @@ APlayerCharacter::APlayerCharacter()
 	}
 	CursorToWorld->DecalSize = FVector(16.0f, 32.0f, 32.0f);
 	CursorToWorld->SetRelativeRotation(FRotator(90.0f, 0.0f, 0.0f).Quaternion());
+
+
+	CanDash = true;
+	DashDistance = 6000.f;
+	DashCooldown = 1.f;
+	DashStop = 0.1f;
+
+}
+
+void APlayerCharacter::Dash()
+{
+	if (APlayerController* PlayerController = Cast<APlayerController>(GetController()))
+	{
+		FHitResult TraceHitResult;
+		PlayerController->GetHitResultUnderCursor(ECC_Visibility, true, TraceHitResult);
+		TargetPosition = TraceHitResult.Location;
+		FRotator Rotation = TargetPosition.Rotation();
+
+		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow, FString::Printf(TEXT("Mouse variable values: PositionX: %f, PositionY: %f"), TargetPosition.X, TargetPosition.Y));
+	}
+
+	if (CanDash)
+	{
+		GetCharacterMovement()->BrakingFrictionFactor = 0.f; //character will not be slowed by ground
+		LaunchCharacter(FVector(TargetPosition.X - this->GetActorLocation().X, TargetPosition.Y - this->GetActorLocation().Y, 0.f).GetSafeNormal() * DashDistance, true, true); //Get safe normal returns direction
+		CanDash = false;
+
+		GetWorldTimerManager().SetTimer(UnuseHandle, this, &APlayerCharacter::StopDash, DashStop, false); //after (DashStop value) seconds, call this function
+	}
+}
+
+void APlayerCharacter::StopDash()
+{
+	GetCharacterMovement()->StopMovementImmediately();
+	GetWorldTimerManager().SetTimer(UnuseHandle, this, &APlayerCharacter::ResetDash, DashCooldown, false); //after (DashCooldown value) seconds, call this function
+	GetCharacterMovement()->BrakingFrictionFactor = 2.f;
+}
+
+void APlayerCharacter::ResetDash()
+{
+	CanDash = true;
 }
 
 // Called when the game starts or when spawned
@@ -129,6 +171,8 @@ void APlayerCharacter::Tick(float DeltaTime)
 void APlayerCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
+
+	PlayerInputComponent->BindAction("Dash", IE_Pressed, this, &APlayerCharacter::Dash);
 
 	PlayerInputComponent->BindAction("SetDestination", IE_Pressed, this, &APlayerCharacter::GetNewLocation);
 	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &APlayerCharacter::Fire);

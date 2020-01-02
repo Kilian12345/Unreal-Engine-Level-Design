@@ -20,6 +20,7 @@ public:
 	
 	UFUNCTION(BlueprintCallable, Category = "Setup")
 		void Fire();
+
 	UPROPERTY(EditDefaultsOnly, Category = "Setup")
 		TSubclassOf<class AKnifeProjectile> ProjectileBlueprint;
 
@@ -29,14 +30,30 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Player Variables")
 		float MoveSpeed;
 
+	UFUNCTION()
+		void Dash();
+	UFUNCTION()
+		void StopDash();
+	UFUNCTION()
+		void ResetDash();
+	UPROPERTY(EditAnywhere)
+		float DashDistance;
+	UPROPERTY(EditAnywhere)
+		float DashCooldown;	 
+	UPROPERTY(EditAnywhere)
+		bool CanDash;
+	UPROPERTY(EditAnywhere)
+		float DashStop;
+	UPROPERTY(EditAnywhere)
+		FTimerHandle UnuseHandle;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 	void GetNewLocation();
 
-
-		FVector TargetPosition;
+	FVector TargetPosition;
 
 public:	
 	// Called every frame

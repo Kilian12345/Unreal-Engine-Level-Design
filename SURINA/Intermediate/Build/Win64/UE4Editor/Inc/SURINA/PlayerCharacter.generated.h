@@ -15,6 +15,30 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define SURINA_Source_SURINA_Public_PlayerCharacter_h_12_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execResetDash) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->ResetDash(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execStopDash) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->StopDash(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execDash) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->Dash(); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execFire) \
 	{ \
 		P_FINISH; \
@@ -25,6 +49,30 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 
 #define SURINA_Source_SURINA_Public_PlayerCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execResetDash) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->ResetDash(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execStopDash) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->StopDash(); \
+		P_NATIVE_END; \
+	} \
+ \
+	DECLARE_FUNCTION(execDash) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->Dash(); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execFire) \
 	{ \
