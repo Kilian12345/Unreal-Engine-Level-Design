@@ -1442,3 +1442,443 @@ Make sure 'BP_PlayerCharacter_C' has been compiled for  Get MoveSpeed
 [2020.01.02-14.53.09:343][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
 [2020.01.02-14.53.09:401][812]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2020.01.02-15.07.23:319][488]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.08.53:681][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Player/BP_PlayerCharacter" FILE="D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2020.01.02-15.08.53:708][431]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BP_PlayerCharacterB64676784D134BE6761ACFA0AE3067FD.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/Player/BP_PlayerCharacter.uasset'
+[2020.01.02-15.08.54:624][538]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2020.01.02-15.08.54:793][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.01.02-15.08.54:921][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Player/BP_PlayerCharacter" FILE="D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2020.01.02-15.08.54:938][548]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BP_PlayerCharacterB2577502456E8FB3DEDB8EBA031622A4.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/Player/BP_PlayerCharacter.uasset'
+[2020.01.02-15.08.56:030][676]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.08.56:044][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.08.56:044][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.08.56:044][676]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:08:56 PM)
+[2020.01.02-15.08.56:044][676]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.08.56:054][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009873s)
+[2020.01.02-15.08.56:055][676]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.08.56:056][676]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2020.01.02-15.08.56:056][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011551s)
+[2020.01.02-15.08.56:090][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.01.02-15.08.56:137][676]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.08.56:148][676]LogInit: FAudioDevice initialized.
+[2020.01.02-15.08.56:155][676]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.08.56:156][676]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.08.56
+[2020.01.02-15.08.56:157][676]LogWorld: Bringing up level for play took: 0.001721
+[2020.01.02-15.08.56:158][676]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.01.02-15.08.56:159][676]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.966
+[2020.01.02-15.08.56:160][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.08.59:580][ 81]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.08.59:580][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.08.59:580][ 81]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.08.59:581][ 81]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.08.59:587][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.08.59:587][ 81]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.08.59:623][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.08.59:626][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.01.02-15.08.59:680][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.01.02-15.09.02:315][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Player/BP_PlayerCharacter" FILE="D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2020.01.02-15.09.02:339][400]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BP_PlayerCharacter9D2833EE4069E5E62EB34F88C19A95EA.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/Player/BP_PlayerCharacter.uasset'
+[2020.01.02-15.09.04:113][611]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2020.01.02-15.09.04:274][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.01.02-15.09.04:391][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Blueprints/Player/BP_PlayerCharacter" FILE="D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/Player/BP_PlayerCharacter.uasset" SILENT=true
+[2020.01.02-15.09.04:410][620]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/BP_PlayerCharacter38D688EA418AF2299073C78438B6C19B.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/_Blueprints/Player/BP_PlayerCharacter.uasset'
+[2020.01.02-15.09.05:453][742]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.09.05:467][742]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.09.05:467][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.09.05:467][742]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:09:05 PM)
+[2020.01.02-15.09.05:468][742]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.09.05:475][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007620s)
+[2020.01.02-15.09.05:477][742]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.09.05:477][742]LogPlayLevel: PIE: World Init took: (0.001682s)
+[2020.01.02-15.09.05:477][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009483s)
+[2020.01.02-15.09.05:512][742]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.01.02-15.09.05:560][742]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.09.05:569][742]LogInit: FAudioDevice initialized.
+[2020.01.02-15.09.05:572][742]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.09.05:574][742]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.09.05
+[2020.01.02-15.09.05:575][742]LogWorld: Bringing up level for play took: 0.001474
+[2020.01.02-15.09.05:575][742]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.01.02-15.09.05:576][742]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.383
+[2020.01.02-15.09.05:577][742]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.09.25:821][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.09.25:821][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.09.25:821][168]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.09.25:822][168]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.09.25:830][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.09.25:831][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.09.25:864][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.09.25:868][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.01.02-15.09.25:928][172]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.01.02-15.09.26:383][226]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.09.26:416][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.01.02-15.09.26:571][226]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap48A02F1F4270F8F12B348E84751BAE95.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2020.01.02-15.09.26:670][226]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap_BuiltData2BC2FF9245D694568E342F84AA1B882F.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.01.02-15.14.00:811][867]LogHotReload: New module detected: UE4Editor-SURINA-0006.dll
+[2020.01.02-15.14.01:492][870]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.02-15.14.01:529][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.01.02-15.14.01:565][870]LogContentBrowser: Native class hierarchy updated for 'SURINA' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.01.02-15.14.01:569][870]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.01.02-15.14.01:640][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.01.02-15.14.01:656][870]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2871 classes and 685 folders.
+[2020.01.02-15.14.01:660][870]Display: HotReload took  0.2s.
+[2020.01.02-15.14.05:680][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.14.05:699][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.14.05:699][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.14.05:699][ 81]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:14:05 PM)
+[2020.01.02-15.14.05:700][ 81]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.14.05:712][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012766s)
+[2020.01.02-15.14.05:714][ 81]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.14.05:714][ 81]LogPlayLevel: PIE: World Init took: (0.001684s)
+[2020.01.02-15.14.05:714][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014596s)
+[2020.01.02-15.14.05:795][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.01.02-15.14.05:859][ 81]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.14.05:873][ 81]LogInit: FAudioDevice initialized.
+[2020.01.02-15.14.05:879][ 81]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.14.05:881][ 81]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.14.05
+[2020.01.02-15.14.05:882][ 81]LogWorld: Bringing up level for play took: 0.001729
+[2020.01.02-15.14.05:882][ 81]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.01.02-15.14.05:884][ 81]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.691
+[2020.01.02-15.14.05:884][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.14.09:618][526]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.14.09:618][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.14.09:618][526]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.14.09:618][526]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.14.09:628][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.14.09:628][526]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.14.09:664][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.14.09:684][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.01.02-15.14.09:734][528]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.01.02-15.14.10:051][565]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.14.10:085][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.01.02-15.14.10:228][565]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap9E4BE480434486161842DCB88229953E.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2020.01.02-15.14.10:321][565]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap_BuiltData3C9263E245AB8BD4AE9B2DA40828B3C6.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.01.02-15.15.20:659][776]LogHotReload: New module detected: UE4Editor-SURINA-0007.dll
+[2020.01.02-15.15.21:010][778]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.02-15.15.21:060][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.01.02-15.15.21:095][778]LogContentBrowser: Native class hierarchy updated for 'SURINA' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.01.02-15.15.21:099][778]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.01.02-15.15.21:163][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.01.02-15.15.21:175][778]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2871 classes and 685 folders.
+[2020.01.02-15.15.21:178][778]Display: HotReload took  0.2s.
+[2020.01.02-15.15.23:939][872]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.15.23:957][872]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.15.23:957][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.15.23:957][872]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:15:23 PM)
+[2020.01.02-15.15.23:957][872]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.15.23:966][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009028s)
+[2020.01.02-15.15.23:968][872]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.15.23:968][872]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2020.01.02-15.15.23:968][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010365s)
+[2020.01.02-15.15.24:034][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.01.02-15.15.24:087][872]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.15.24:097][872]LogInit: FAudioDevice initialized.
+[2020.01.02-15.15.24:105][872]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.15.24:106][872]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.15.24
+[2020.01.02-15.15.24:107][872]LogWorld: Bringing up level for play took: 0.001448
+[2020.01.02-15.15.24:107][872]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.01.02-15.15.24:109][872]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.915
+[2020.01.02-15.15.24:109][872]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.15.26:267][128]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.15.26:268][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.15.26:268][128]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.15.26:268][128]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.15.26:275][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.15.26:275][128]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.15.26:307][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.15.26:322][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.01.02-15.15.26:372][131]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.01.02-15.15.27:596][179]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.15.51:987][354]LogHotReload: New module detected: UE4Editor-SURINA-0008.dll
+[2020.01.02-15.15.52:665][357]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.02-15.15.52:694][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.01.02-15.15.52:722][357]LogContentBrowser: Native class hierarchy updated for 'SURINA' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2020.01.02-15.15.52:726][357]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.01.02-15.15.52:785][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.01.02-15.15.52:798][357]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2871 classes and 685 folders.
+[2020.01.02-15.15.52:801][357]Display: HotReload took  0.1s.
+[2020.01.02-15.15.54:778][494]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.15.54:795][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.15.54:796][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.15.54:796][494]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:15:54 PM)
+[2020.01.02-15.15.54:796][494]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.15.54:805][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008893s)
+[2020.01.02-15.15.54:806][494]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.15.54:806][494]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2020.01.02-15.15.54:806][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010413s)
+[2020.01.02-15.15.54:866][494]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.01.02-15.15.54:921][494]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.15.54:931][494]LogInit: FAudioDevice initialized.
+[2020.01.02-15.15.54:942][494]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.15.54:943][494]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.15.54
+[2020.01.02-15.15.54:944][494]LogWorld: Bringing up level for play took: 0.001332
+[2020.01.02-15.15.54:944][494]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.01.02-15.15.54:946][494]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0.247
+[2020.01.02-15.15.54:946][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.15.56:229][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.15.56:229][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.15.56:229][645]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.15.56:229][645]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.15.56:239][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.15.56:239][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.15.56:274][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.15.56:279][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.01.02-15.15.56:330][648]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.01.02-15.16.26:110][767]LogHotReload: New module detected: UE4Editor-SURINA-0009.dll
+[2020.01.02-15.16.26:459][769]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.02-15.16.26:496][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.01.02-15.16.26:530][769]LogContentBrowser: Native class hierarchy updated for 'SURINA' in 0.0002 seconds. Added 7 classes and 3 folders.
+[2020.01.02-15.16.26:534][769]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.01.02-15.16.26:595][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.01.02-15.16.26:608][769]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2871 classes and 685 folders.
+[2020.01.02-15.16.26:611][769]Display: HotReload took  0.2s.
+[2020.01.02-15.16.27:214][771]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.16.28:319][876]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.16.28:335][876]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.16.28:335][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.16.28:336][876]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:16:28 PM)
+[2020.01.02-15.16.28:336][876]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.16.28:344][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008454s)
+[2020.01.02-15.16.28:345][876]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.16.28:345][876]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2020.01.02-15.16.28:345][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009776s)
+[2020.01.02-15.16.28:404][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.01.02-15.16.28:451][876]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.16.28:461][876]LogInit: FAudioDevice initialized.
+[2020.01.02-15.16.28:465][876]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.16.28:466][876]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.16.28
+[2020.01.02-15.16.28:467][876]LogWorld: Bringing up level for play took: 0.001361
+[2020.01.02-15.16.28:467][876]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.01.02-15.16.28:469][876]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0.724
+[2020.01.02-15.16.28:469][876]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.16.29:655][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.16.29:655][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.16.29:655][ 15]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.16.29:655][ 15]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.16.29:666][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.16.29:666][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.16.29:693][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.16.29:699][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.01.02-15.16.29:756][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.01.02-15.16.47:725][ 94]LogHotReload: New module detected: UE4Editor-SURINA-0010.dll
+[2020.01.02-15.16.48:073][ 96]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.02-15.16.48:113][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.01.02-15.16.48:143][ 96]LogContentBrowser: Native class hierarchy updated for 'SURINA' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.01.02-15.16.48:147][ 96]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.01.02-15.16.48:214][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.01.02-15.16.48:227][ 96]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2871 classes and 685 folders.
+[2020.01.02-15.16.48:229][ 96]Display: HotReload took  0.2s.
+[2020.01.02-15.16.48:692][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.16.49:534][195]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.16.49:551][195]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.16.49:551][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.16.49:551][195]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:16:49 PM)
+[2020.01.02-15.16.49:551][195]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.16.49:558][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007492s)
+[2020.01.02-15.16.49:559][195]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.16.49:560][195]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2020.01.02-15.16.49:560][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008771s)
+[2020.01.02-15.16.49:618][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.01.02-15.16.49:664][195]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.16.49:672][195]LogInit: FAudioDevice initialized.
+[2020.01.02-15.16.49:676][195]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.16.49:678][195]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.16.49
+[2020.01.02-15.16.49:678][195]LogWorld: Bringing up level for play took: 0.001458
+[2020.01.02-15.16.49:678][195]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.01.02-15.16.49:680][195]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.488
+[2020.01.02-15.16.49:680][195]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.16.59:781][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.16.59:781][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.16.59:781][404]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.16.59:782][404]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.16.59:788][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.16.59:788][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.16.59:825][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.16.59:831][404]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.01.02-15.16.59:887][407]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.01.02-15.17.06:133][454]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.17.14:700][538]LogHotReload: New module detected: UE4Editor-SURINA-0011.dll
+[2020.01.02-15.17.15:381][541]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.02-15.17.15:411][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.01.02-15.17.15:447][541]LogContentBrowser: Native class hierarchy updated for 'SURINA' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.01.02-15.17.15:450][541]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.01.02-15.17.15:517][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.01.02-15.17.15:529][541]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 2871 classes and 685 folders.
+[2020.01.02-15.17.15:532][541]Display: HotReload took  0.2s.
+[2020.01.02-15.17.16:848][640]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.17.16:868][640]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.17.16:868][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.17.16:868][640]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:17:16 PM)
+[2020.01.02-15.17.16:868][640]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.17.16:878][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010111s)
+[2020.01.02-15.17.16:879][640]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.17.16:879][640]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2020.01.02-15.17.16:880][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011484s)
+[2020.01.02-15.17.16:943][640]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.01.02-15.17.16:989][640]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.17.17:001][640]LogInit: FAudioDevice initialized.
+[2020.01.02-15.17.17:007][640]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.17.17:008][640]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.17.17
+[2020.01.02-15.17.17:009][640]LogWorld: Bringing up level for play took: 0.001611
+[2020.01.02-15.17.17:009][640]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.01.02-15.17.17:011][640]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap -0.182
+[2020.01.02-15.17.17:012][640]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.17.20:699][  1]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.17.20:955][ 31]Cmd: SELECT NONE
+[2020.01.02-15.18.06:126][288]LogHotReload: New module detected: UE4Editor-SURINA-0012.dll
+[2020.01.02-15.18.18:335][518]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.18.18:335][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.18.18:335][518]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.18.18:336][518]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.18.18:345][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.18.18:346][518]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.18.18:381][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.18.18:384][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.01.02-15.18.18:414][519]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.02-15.18.18:451][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.01.02-15.18.18:483][519]LogContentBrowser: Native class hierarchy updated for 'SURINA' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.01.02-15.18.18:487][519]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.01.02-15.18.18:550][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.01.02-15.18.18:563][519]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2871 classes and 685 folders.
+[2020.01.02-15.18.18:565][519]Display: HotReload took  0.2s.
+[2020.01.02-15.18.18:568][519]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.01.02-15.18.19:054][546]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.18.19:069][546]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.18.19:069][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.18.19:069][546]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:18:19 PM)
+[2020.01.02-15.18.19:070][546]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.18.19:077][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007281s)
+[2020.01.02-15.18.19:078][546]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.18.19:078][546]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2020.01.02-15.18.19:078][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008844s)
+[2020.01.02-15.18.19:136][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.01.02-15.18.19:181][546]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.18.19:190][546]LogInit: FAudioDevice initialized.
+[2020.01.02-15.18.19:200][546]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.18.19:202][546]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.18.19
+[2020.01.02-15.18.19:203][546]LogWorld: Bringing up level for play took: 0.001648
+[2020.01.02-15.18.19:203][546]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.01.02-15.18.19:205][546]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.012
+[2020.01.02-15.18.19:205][546]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.18.24:966][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.18.24:966][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.18.24:966][234]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.18.24:966][234]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.18.24:977][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.18.24:977][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.18.25:021][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.18.25:035][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.01.02-15.18.25:071][236]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.01.02-15.18.25:563][293]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.18.25:594][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.01.02-15.18.25:756][293]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap96A5F17742FA030806133A981D3D5A77.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2020.01.02-15.18.25:862][293]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap_BuiltData10D4AAE0427398C42FED918544A9FD32.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2020.01.02-15.19.09:081][223]LogHotReload: New module detected: UE4Editor-SURINA-0014.dll
+[2020.01.02-15.19.09:431][225]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.02-15.19.09:467][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.01.02-15.19.09:500][225]LogContentBrowser: Native class hierarchy updated for 'SURINA' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.01.02-15.19.09:504][225]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.01.02-15.19.09:571][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.01.02-15.19.09:583][225]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2871 classes and 685 folders.
+[2020.01.02-15.19.09:585][225]Display: HotReload took  0.2s.
+[2020.01.02-15.19.13:739][579]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.19.13:758][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.19.13:758][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.19.13:758][579]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:19:13 PM)
+[2020.01.02-15.19.13:758][579]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.19.13:767][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009227s)
+[2020.01.02-15.19.13:768][579]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.19.13:769][579]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2020.01.02-15.19.13:769][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010693s)
+[2020.01.02-15.19.13:835][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.01.02-15.19.13:885][579]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.19.13:895][579]LogInit: FAudioDevice initialized.
+[2020.01.02-15.19.13:906][579]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.19.13:908][579]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.19.13
+[2020.01.02-15.19.13:908][579]LogWorld: Bringing up level for play took: 0.001485
+[2020.01.02-15.19.13:908][579]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.01.02-15.19.13:910][579]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.717
+[2020.01.02-15.19.13:910][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.19.15:694][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.19.15:694][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.19.15:694][790]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.19.15:694][790]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.19.15:705][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.19.15:705][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.19.15:740][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.19.15:756][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.01.02-15.19.15:800][792]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.01.02-15.19.23:326][844]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.19.59:707][241]LogHotReload: New module detected: UE4Editor-SURINA-0015.dll
+[2020.01.02-15.20.00:390][244]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.02-15.20.00:427][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.01.02-15.20.00:460][244]LogContentBrowser: Native class hierarchy updated for 'SURINA' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.01.02-15.20.00:464][244]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.01.02-15.20.00:524][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.01.02-15.20.00:537][244]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2871 classes and 685 folders.
+[2020.01.02-15.20.00:539][244]Display: HotReload took  0.1s.
+[2020.01.02-15.20.01:961][356]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.20.01:983][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.20.01:983][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.20.01:984][356]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:20:01 PM)
+[2020.01.02-15.20.01:984][356]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.20.01:993][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009671s)
+[2020.01.02-15.20.01:995][356]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.20.01:995][356]LogPlayLevel: PIE: World Init took: (0.001495s)
+[2020.01.02-15.20.01:995][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.011348s)
+[2020.01.02-15.20.02:053][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.01.02-15.20.02:101][356]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.20.02:111][356]LogInit: FAudioDevice initialized.
+[2020.01.02-15.20.02:119][356]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.20.02:120][356]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.20.02
+[2020.01.02-15.20.02:121][356]LogWorld: Bringing up level for play took: 0.001493
+[2020.01.02-15.20.02:121][356]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.01.02-15.20.02:123][356]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 0.93
+[2020.01.02-15.20.02:123][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.20.17:257][164]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.20.17:257][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.20.17:257][164]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.20.17:257][164]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.20.17:263][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.20.17:263][164]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.20.17:295][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.20.17:298][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.01.02-15.20.17:363][169]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.01.02-15.20.21:600][219]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.20.39:959][497]LogHotReload: New module detected: UE4Editor-SURINA-0016.dll
+[2020.01.02-15.20.40:638][500]LogHotReload: Starting Hot-Reload from IDE
+[2020.01.02-15.20.40:672][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.01.02-15.20.40:703][500]LogContentBrowser: Native class hierarchy updated for 'SURINA' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2020.01.02-15.20.40:706][500]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.01.02-15.20.40:772][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.01.02-15.20.40:784][500]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2871 classes and 685 folders.
+[2020.01.02-15.20.40:787][500]Display: HotReload took  0.1s.
+[2020.01.02-15.20.42:139][586]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.02-15.20.42:160][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.20.42:160][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.02-15.20.42:161][586]PIE: New page: PIE session: TopDownExampleMap (Jan 2, 2020, 5:20:42 PM)
+[2020.01.02-15.20.42:161][586]LogPlayLevel: Creating play world package: /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.20.42:168][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007530s)
+[2020.01.02-15.20.42:169][586]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2020.01.02-15.20.42:169][586]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2020.01.02-15.20.42:169][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008818s)
+[2020.01.02-15.20.42:233][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.01.02-15.20.42:283][586]LogInit: XAudio2 using 'Headphones (SteelSeries Arctis 5 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.02-15.20.42:293][586]LogInit: FAudioDevice initialized.
+[2020.01.02-15.20.42:303][586]LogLoad: Game class is 'BP_GameMode_C'
+[2020.01.02-15.20.42:304][586]LogWorld: Bringing World /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2020.01.02-16.20.42
+[2020.01.02-15.20.42:305][586]LogWorld: Bringing up level for play took: 0.001414
+[2020.01.02-15.20.42:305][586]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.01.02-15.20.42:307][586]PIE: Play in editor start time for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap 1.114
+[2020.01.02-15.20.42:307][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.21.49:231][609]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.21.49:232][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.21.49:232][609]LogWorld: BeginTearingDown for /Game/TopDownCPP/Maps/UEDPIE_0_TopDownExampleMap
+[2020.01.02-15.21.49:232][609]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.02-15.21.49:242][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.02-15.21.49:242][609]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownCPP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2020.01.02-15.21.49:276][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.02-15.21.49:280][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.01.02-15.21.49:330][612]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.01.02-15.21.49:685][654]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.02-15.21.49:714][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.01.02-15.21.49:863][654]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap33732C684D90A04C59E707BC7C2EE4EE.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap.umap'
+[2020.01.02-15.21.49:951][654]LogSavePackage: Moving 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Saved/TopDownExampleMap_BuiltData1D3797F64FE90AAA396D8EB14F9A6EA8.tmp' to 'D:/_gameDev/_GITKRAKEN/Unreal-Engine-Level-Design/SURINA/Content/TopDownCPP/Maps/TopDownExampleMap_BuiltData.uasset'

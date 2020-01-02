@@ -49,18 +49,17 @@ void APlayerCharacter::Dash()
 		FHitResult TraceHitResult;
 		PlayerController->GetHitResultUnderCursor(ECC_Visibility, true, TraceHitResult);
 		TargetPosition = TraceHitResult.Location;
-		FRotator Rotation = TargetPosition.Rotation();
-
-		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow, FString::Printf(TEXT("Mouse variable values: PositionX: %f, PositionY: %f"), TargetPosition.X, TargetPosition.Y));
 	}
 
 	if (CanDash)
 	{
+		DashDistance = FVector().Distance(GetActorLocation(), CursorToWorld->GetComponentLocation()) * 10.f;
 		GetCharacterMovement()->BrakingFrictionFactor = 0.f; //character will not be slowed by ground
 		LaunchCharacter(FVector(TargetPosition.X - this->GetActorLocation().X, TargetPosition.Y - this->GetActorLocation().Y, 0.f).GetSafeNormal() * DashDistance, true, true); //Get safe normal returns direction
 		CanDash = false;
 
 		GetWorldTimerManager().SetTimer(UnuseHandle, this, &APlayerCharacter::StopDash, DashStop, false); //after (DashStop value) seconds, call this function
+		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Yellow, FString::Printf(TEXT("Distance to Target is: %f"), DashDistance));
 	}
 }
 
@@ -174,7 +173,7 @@ void APlayerCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCom
 
 	PlayerInputComponent->BindAction("Dash", IE_Pressed, this, &APlayerCharacter::Dash);
 
-	PlayerInputComponent->BindAction("SetDestination", IE_Pressed, this, &APlayerCharacter::GetNewLocation);
-	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &APlayerCharacter::Fire);
+	//PlayerInputComponent->BindAction("SetDestination", IE_Pressed, this, &APlayerCharacter::GetNewLocation);
+	//PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &APlayerCharacter::Fire);
 
 }
