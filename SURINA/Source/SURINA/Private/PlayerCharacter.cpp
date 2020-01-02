@@ -36,9 +36,10 @@ APlayerCharacter::APlayerCharacter()
 
 
 	CanDash = true;
-	DashDistance = 6000.f;
-	DashCooldown = 1.f;
+	DashDistance = 7000.f;
+	DashCooldown = .1f;
 	DashStop = 0.1f;
+	FixedDashDistance = false;
 
 }
 
@@ -53,9 +54,19 @@ void APlayerCharacter::Dash()
 
 	if (CanDash)
 	{
-		DashDistance = FVector().Distance(GetActorLocation(), CursorToWorld->GetComponentLocation()) * 10.f;
 		GetCharacterMovement()->BrakingFrictionFactor = 0.f; //character will not be slowed by ground
-		LaunchCharacter(FVector(TargetPosition.X - this->GetActorLocation().X, TargetPosition.Y - this->GetActorLocation().Y, 0.f).GetSafeNormal() * DashDistance, true, true); //Get safe normal returns direction
+		if (FixedDashDistance == false)
+		{
+			float distanceToCursor = FVector().Distance(GetActorLocation(), CursorToWorld->GetComponentLocation()) * 10.f;
+			if (distanceToCursor > DashDistance) distanceToCursor = DashDistance;
+			LaunchCharacter(FVector(TargetPosition.X - this->GetActorLocation().X, TargetPosition.Y - this->GetActorLocation().Y, 0.f).GetSafeNormal() * distanceToCursor, true, true); //Get safe normal returns direction
+		}
+
+		else if (FixedDashDistance == true)
+		{
+			LaunchCharacter(FVector(TargetPosition.X - this->GetActorLocation().X, TargetPosition.Y - this->GetActorLocation().Y, 0.f).GetSafeNormal() * DashDistance, true, true); //Get safe normal returns direction
+		}
+		
 		CanDash = false;
 
 		GetWorldTimerManager().SetTimer(UnuseHandle, this, &APlayerCharacter::StopDash, DashStop, false); //after (DashStop value) seconds, call this function

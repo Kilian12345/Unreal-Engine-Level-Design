@@ -30,6 +30,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Player Variables")
 		float MoveSpeed;
 
+	UPROPERTY(EditAnywhere)
+		bool FixedDashDistance;
+
 	UFUNCTION()
 		void Dash();
 	UFUNCTION()
