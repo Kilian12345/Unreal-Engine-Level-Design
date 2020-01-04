@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SURINA.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7EC4243C-5036-4283-A417-C86D98CBB1CC}</UniqueIdentifier>
+      <UniqueIdentifier>{9D9D34B3-D6CA-407E-A8BF-7B3C45123A22}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SURINA.Target.cs">
       <Filter>Source</Filter>
@@ -14,7 +14,7 @@
     <None Include="..\..\.gitignore" />
     <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{87A98B35-A9AF-4FE6-9220-79EE59B43F17}</UniqueIdentifier>
+      <UniqueIdentifier>{8C5F042D-EAEA-4F8D-B2F1-5191BE3FAF77}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -35,7 +35,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SURINA">
-      <UniqueIdentifier>{C5A0EC17-94CE-4D89-805D-56F2384AF8C1}</UniqueIdentifier>
+      <UniqueIdentifier>{AA671CB4-F6EC-4AAA-BC43-8AB9E7F642A6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SURINA\SURINA.Build.cs">
       <Filter>Source\SURINA</Filter>
@@ -65,7 +65,7 @@
       <Filter>Source\SURINA</Filter>
     </ClInclude>
     <Filter Include="Source\SURINA\Private">
-      <UniqueIdentifier>{94E1C3FB-B115-4323-90F8-5029B0855797}</UniqueIdentifier>
+      <UniqueIdentifier>{4382A560-9535-4C1B-B6CA-9C9761B71574}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SURINA\Private\BasicGuard.cpp">
       <Filter>Source\SURINA\Private</Filter>
@@ -80,7 +80,7 @@
       <Filter>Source\SURINA\Private</Filter>
     </ClCompile>
     <Filter Include="Source\SURINA\Public">
-      <UniqueIdentifier>{16D5ADC7-29CE-47BF-AD19-45D95F165D34}</UniqueIdentifier>
+      <UniqueIdentifier>{816BE608-387E-4006-8BD6-18CB7C0B5692}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\SURINA\Public\BasicGuard.h">
       <Filter>Source\SURINA\Public</Filter>

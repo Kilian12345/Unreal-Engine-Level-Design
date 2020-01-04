@@ -174,7 +174,7 @@ void APlayerCharacter::Tick(float DeltaTime)
 	FVector ActorLocation = GetActorLocation();
 	FVector Direction = FVector (TargetPosition.X - ActorLocation.X, TargetPosition.Y - ActorLocation.Y, .0f);
 
-	AddActorLocalOffset(Direction * MoveSpeed, true);
+	//AddActorLocalOffset(Direction * MoveSpeed, true);
 }
 
 // Called to bind functionality to input

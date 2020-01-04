@@ -27,9 +27,6 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
 		FVector MuzzleOffset;
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Player Variables")
-		float MoveSpeed;
-
 	UPROPERTY(EditAnywhere)
 		bool FixedDashDistance;
 
@@ -39,15 +36,15 @@ public:
 		void StopDash();
 	UFUNCTION()
 		void ResetDash();
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Player Variables")
 		float DashDistance;
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Player Variables")
 		float DashCooldown;	 
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Player Variables")
 		bool CanDash;
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "Player Variables")
 		float DashStop;
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(EditAnywhere, Category = "Player Variables")
 		FTimerHandle UnuseHandle;
 
 protected:
