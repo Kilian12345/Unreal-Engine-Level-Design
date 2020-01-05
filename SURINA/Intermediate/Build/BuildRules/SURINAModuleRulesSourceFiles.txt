@@ -1,3 +1,3 @@
-C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Source\SURINA\SURINA.Build.cs
-C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Source\SURINA.Target.cs
-C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Source\SURINAEditor.Target.cs
+C:\Users\maxdu\Desktop\UNITY\GitHub\Unreal-Engine-Level-Design\SURINA\Source\SURINA\SURINA.Build.cs
+C:\Users\maxdu\Desktop\UNITY\GitHub\Unreal-Engine-Level-Design\SURINA\Source\SURINA.Target.cs
+C:\Users\maxdu\Desktop\UNITY\GitHub\Unreal-Engine-Level-Design\SURINA\Source\SURINAEditor.Target.cs
