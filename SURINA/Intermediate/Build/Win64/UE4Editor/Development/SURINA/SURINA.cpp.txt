@@ -1,2 +1,2 @@
-C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\Definitions.SURINA.h
-C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Source\SURINA\SURINA.h
+C:\Users\maxdu\Desktop\UNITY\GitHub\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\Definitions.SURINA.h
+C:\Users\maxdu\Desktop\UNITY\GitHub\Unreal-Engine-Level-Design\SURINA\Source\SURINA\SURINA.h
