@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SURINA.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D7609C5D-A94A-4C5A-A7CA-FF344A306B8E}</UniqueIdentifier>
+      <UniqueIdentifier>{9D9D34B3-D6CA-407E-A8BF-7B3C45123A22}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SURINA.Target.cs">
       <Filter>Source</Filter>
@@ -11,13 +11,18 @@
     <None Include="..\..\Source\SURINAEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{F0CB6247-8CBA-4C0A-B84E-7A41AD31BFDB}</UniqueIdentifier>
+      <UniqueIdentifier>{8C5F042D-EAEA-4F8D-B2F1-5191BE3FAF77}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
       <Filter>Config</Filter>
     </None>
     <None Include="..\..\Config\DefaultEngine.ini">
@@ -30,7 +35,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SURINA">
-      <UniqueIdentifier>{FEA1506B-8416-40A3-98F2-4315EC3008BA}</UniqueIdentifier>
+      <UniqueIdentifier>{AA671CB4-F6EC-4AAA-BC43-8AB9E7F642A6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SURINA\SURINA.Build.cs">
       <Filter>Source\SURINA</Filter>
@@ -58,6 +63,36 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\SURINA\SURINAPlayerController.h">
       <Filter>Source\SURINA</Filter>
+    </ClInclude>
+    <Filter Include="Source\SURINA\Private">
+      <UniqueIdentifier>{4382A560-9535-4C1B-B6CA-9C9761B71574}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SURINA\Private\BasicGuard.cpp">
+      <Filter>Source\SURINA\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SURINA\Private\KnifeProjectile.cpp">
+      <Filter>Source\SURINA\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SURINA\Private\PlayerCharacter.cpp">
+      <Filter>Source\SURINA\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SURINA\Private\TeamAIController.cpp">
+      <Filter>Source\SURINA\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SURINA\Public">
+      <UniqueIdentifier>{816BE608-387E-4006-8BD6-18CB7C0B5692}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SURINA\Public\BasicGuard.h">
+      <Filter>Source\SURINA\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SURINA\Public\KnifeProjectile.h">
+      <Filter>Source\SURINA\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SURINA\Public\PlayerCharacter.h">
+      <Filter>Source\SURINA\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SURINA\Public\TeamAIController.h">
+      <Filter>Source\SURINA\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
