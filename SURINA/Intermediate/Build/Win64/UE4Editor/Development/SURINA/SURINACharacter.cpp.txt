@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\Definitions.SURINA.h
 C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Source\SURINA\SURINACharacter.h
-=======
-C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Development\SURINA\Definitions.SURINA.h
-C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Source\SURINA\SURINACharacter.h
->>>>>>> _LéoDev2.0
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h

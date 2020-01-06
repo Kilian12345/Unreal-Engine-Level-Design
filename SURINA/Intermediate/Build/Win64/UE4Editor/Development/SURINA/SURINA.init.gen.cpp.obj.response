@@ -28,14 +28,8 @@
 /wd4838
 /we4668
 /I .
-<<<<<<< HEAD
-/I C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Inc\SURINA
-/I C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Source
-/I C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Source\SURINA
-=======
-/I C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Source\SURINA\Private
+/I C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Source\SURINA\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
->>>>>>> _LéoDev2.0
 /I Runtime
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
@@ -505,10 +499,10 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-/I C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Inc\SURINA
-/I C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Source
-/I C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Source\SURINA\Public
-/I C:\Users\l.gombert\Documents\_GITKRAKEN\Unreal-Engine-Level-Design\SURINA\Source\SURINA
+/I C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Intermediate\Build\Win64\UE4Editor\Inc\SURINA
+/I C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Source
+/I C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Source\SURINA\Public
+/I C:\Users\k.allaire\Desktop\Github\Unreal-Engine-Level-Design\SURINA\Source\SURINA
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I Runtime\AugmentedReality
